@@ -6,6 +6,7 @@ requires: [pro_micro]
 features:
   - keys
   - encoder
+  - studio
 siblings:
   - sofleez_left
   - sofleez_right

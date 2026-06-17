@@ -20,7 +20,7 @@
 &kp TAB   &kp Q  &kp W  &kp E  &kp R  &kp T                 &kp Y   &kp U  &kp I     &kp O      &kp P      &kp BSLH
 &kp ESC   &kp A  &kp S  &kp D  &kp F  &kp G                         &kp H   &kp J  &kp K     &kp L      &kp SEMI   &kp SQT
 &kp FN &kp Z  &kp X  &kp C  &kp V  &kp B  &kp C_MUTE  &kp F13 &kp N   &kp M  &kp COMMA &kp DOT &kp FSLH   &kp RALT
-                  &kp LSHFT &mo DEL &kp LCTRL &kp SPACE                      &kp RET &mo RSHFT &kp BSPC &kp RGUI
+                  &kp LSHFT &mo SYS &kp LCTRL &kp SPACE                      &kp RET &mo RSHFT &kp BSPC &kp RGUI
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>, <&inc_dec_kp C_BRI_UP C_BRI_DN>;
@@ -43,7 +43,7 @@ ___       &kp EXCL &kp AT   &kp HASH  &kp DLLR &kp PRCNT &kp C_MUTE ___ &kp HOME
             display-name = "SYS";
             bindings = <
 ___       &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_CLR             ___     ___ ___ ___ ___ ___
-___       ___          ___          ___          ___          &bootloader             &bootloader ___ ___ ___ ___ ___
+___       ___          ___          &studio_unlock ___       &bootloader             &bootloader ___ &studio_unlock ___ ___ ___
 ___       ___          ___          ___          ___          &sys_reset                      &sys_reset  ___ ___ ___ ___ ___
 ___       ___          ___          ___          ___          ___        ___  ___      ___     ___ ___ ___ ___ ___
                          ___          ___          ___          ___                       ___     ___ ___ ___
