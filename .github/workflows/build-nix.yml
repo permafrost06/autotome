@@ -45,8 +45,9 @@ jobs:
       - name: Add protoc for ZMK Studio
         if: ${{ contains(matrix.cmake-args, 'CONFIG_ZMK_STUDIO=y') }}
         run: |
-          nix profile install nixpkgs#protobuf
+          nix profile install nixpkgs#protobuf nixpkgs#python3Packages.protobuf
           echo "$HOME/.nix-profile/bin" >> $GITHUB_PATH
+          echo "PYTHONPATH=$HOME/.nix-profile/lib/python3.13/site-packages${PYTHONPATH:+:$PYTHONPATH}" >> $GITHUB_ENV
 
       - name: Pull in ZMK and Zephyr modules
         uses: urob/zmk-actions/setup-zmk@v12.0.0
