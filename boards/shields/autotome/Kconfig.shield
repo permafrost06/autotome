@@ -1,0 +1,5 @@
+config SHIELD_AUTOTOME_LEFT
+    def_bool $(shields_list_contains,autotome_left)
+
+config SHIELD_AUTOTOME_RIGHT
+    def_bool $(shields_list_contains,autotome_right)

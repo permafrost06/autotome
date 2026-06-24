@@ -1,4 +1,4 @@
-#include "sofleez.dtsi"
+#include "autotome.dtsi"
 
 &default_transform {
     col-offset = <7>;

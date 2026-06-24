@@ -1,6 +1,6 @@
 file_format: "1"
-id: sofleez
-name: Sofleez
+id: autotome
+name: Autotome
 type: shield
 requires: [pro_micro]
 features:
@@ -8,5 +8,5 @@ features:
   - encoder
   - studio
 siblings:
-  - sofleez_left
-  - sofleez_right
+  - autotome_left
+  - autotome_right

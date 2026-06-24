@@ -1,0 +1,16 @@
+if SHIELD_AUTOTOME_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "autotome"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif # SHIELD_AUTOTOME_LEFT
+
+if SHIELD_AUTOTOME_LEFT || SHIELD_AUTOTOME_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif # SHIELD_AUTOTOME_LEFT || SHIELD_AUTOTOME_RIGHT
