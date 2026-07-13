@@ -50,6 +50,8 @@
 		)
 		(capping no)
 		(filling no)
+		(aux_axis_origin 61.604 23.837)
+		(grid_origin 99.693 111.943)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -90,7 +92,7 @@
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "123b6346-e9e1-4e32-9363-74054ff1e8a1")
-		(at 131.065 118.725)
+		(at 238 119.5)
 		(descr "Alps rotary encoder, EC11E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW25"
@@ -513,7 +515,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "22d5c3aa-d6f8-4a5e-9e5c-9d6403599249")
-		(at 141.385 83.425)
+		(at 248.32 84.2)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
@@ -815,7 +817,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "23d22718-3a09-4be8-aed1-36d73709fd5d")
-		(at 141.385 97.625)
+		(at 248.32 98.4)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D16"
@@ -1117,7 +1119,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "28b5f012-8f59-4572-9548-d0d9a17d9ff9")
-		(at 130.615 111.825)
+		(at 237.55 112.6)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
@@ -1419,7 +1421,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "2fd0c84c-1c4c-4628-9ebf-2dac2321394e")
-		(at 71.36 48.775)
+		(at 33.02 38.1)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW1"
@@ -2127,7 +2129,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "302323f8-6e23-4643-b143-70d5434933af")
-		(at 152.155 86.975)
+		(at 259.09 87.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D23"
@@ -2429,7 +2431,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "33871edd-e719-43d7-90d1-f7bc1e61778f")
-		(at 71.36 126.525)
+		(at 128.268 35.743)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW6"
@@ -3137,7 +3139,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "37295121-30c6-43a4-acc6-52523ba7250e")
-		(at 141.385 86.975)
+		(at 248.32 87.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D13"
@@ -3439,7 +3441,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "39be2f64-25c9-4449-838e-a41c31b880a8")
-		(at 152.155 79.875)
+		(at 259.09 80.65)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D21"
@@ -3741,7 +3743,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "3d4bc195-71db-4703-a192-c01c22642361")
-		(at 87.995 142.075)
+		(at 52.07 76.2)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW14"
@@ -4449,7 +4451,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "405c4b23-4010-492a-b0ad-8714fbf0de1e")
-		(at 104.63 95.425)
+		(at 128.268 73.843)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW18"
@@ -5157,7 +5159,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "41186855-bdfb-4729-ac15-6fd24b0fb4df")
-		(at 141.385 90.525)
+		(at 248.32 91.3)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D14"
@@ -5459,13 +5461,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "51683dbd-1a26-4206-a720-e3f0cb64c20e")
-		(at 121.265 64.325)
+		(at 109.218 90.512)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW23"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "ca58761b-02f7-4c67-8d05-afce5dd2b42a")
+			(uuid "e12aefe1-add8-4b95-84dd-c9eedb3e0932")
 			(effects
 				(font
 					(size 1 1)
@@ -5476,7 +5478,7 @@
 		(property "Value" "SW_PUSH"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "6f0269d8-bc17-41c8-b96a-828e61cad90e")
+			(uuid "201798a7-892a-463f-97c2-c8a915aad2ca")
 			(effects
 				(font
 					(size 1 1)
@@ -5488,7 +5490,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27c52666-9226-4429-8b51-fb5baabec317")
+			(uuid "9d9c80db-00ee-47e9-8467-9f184de771a9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5499,7 +5501,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ce18af5-aac2-4799-be0a-90575c2251fe")
+			(uuid "a94e8181-0be1-457f-b75b-86f26ceed538")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6167,7 +6169,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "5446e2d2-89a2-4d84-aaab-67efcb01528b")
-		(at 87.995 79.875)
+		(at 90.168 50.031)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW10"
@@ -6875,7 +6877,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "5b44982d-4b36-4f01-ad88-75eac9a58bf7")
-		(at 104.63 126.525)
+		(at 52.07 95.25)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW20"
@@ -7583,7 +7585,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "5be083f0-ec8b-48c1-a0e8-52705692a917")
-		(at 121.265 79.875)
+		(at 128.268 92.893)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW24"
@@ -8291,7 +8293,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "5ed07ca0-69b4-4123-a108-b7ebf5f59fb4")
-		(at 87.995 126.525)
+		(at 33.02 76.2)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW13"
@@ -8999,7 +9001,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5f5e8e68-ddcf-40af-86e0-5fc507cb5cf8")
-		(at 130.615 104.725)
+		(at 237.55 105.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
@@ -9301,11 +9303,11 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "63e750f2-f4f8-48cd-9ad1-84f4bce1175b")
-		(at 121.265 142.075)
+		(at 140.418 120.618 -23.88)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW30"
-			(at 0 -8 0)
+			(at 0 -7.999999 156.12)
 			(layer "F.SilkS")
 			(uuid "7c8c4b0c-e75a-4d5b-b084-0192502bae9e")
 			(effects
@@ -9316,7 +9318,7 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 0 8 0)
+			(at 0 7.999999 156.12)
 			(layer "F.Fab")
 			(uuid "a4eafe39-77fe-47e0-b0d9-bab7ba963a72")
 			(effects
@@ -9327,7 +9329,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 156.12)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "64b5ba0c-f0a0-4123-b89b-0052a7e8fa97")
@@ -9338,7 +9340,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 156.12)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bed68be4-ab4f-4d77-a555-3c87a0b11f50")
@@ -9360,18 +9362,8 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -7.1 -7.1)
-			(end -7.1 7.1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cc9d2b19-24dd-4367-8416-5edca601b21c")
-		)
-		(fp_line
-			(start -7.1 7.1)
-			(end 7.1 7.1)
+			(start -7.1 7.099999)
+			(end 7.099999 7.1)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9380,18 +9372,18 @@
 			(uuid "11c60b82-f3ff-41e8-b547-ceb8251ead60")
 		)
 		(fp_line
-			(start 7.1 -7.1)
-			(end -7.1 -7.1)
+			(start -7.099999 -7.1)
+			(end -7.1 7.099999)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9f1f49d4-6994-49ff-a992-496137333d60")
+			(uuid "cc9d2b19-24dd-4367-8416-5edca601b21c")
 		)
 		(fp_line
-			(start 7.1 7.1)
-			(end 7.1 -7.1)
+			(start 7.099999 7.1)
+			(end 7.1 -7.099999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9400,7 +9392,17 @@
 			(uuid "168eb80e-3767-48b9-be9d-6fc70ec559cf")
 		)
 		(fp_line
-			(start -4.1 -6.9)
+			(start 7.1 -7.099999)
+			(end -7.099999 -7.1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9f1f49d4-6994-49ff-a992-496137333d60")
+		)
+		(fp_line
+			(start -4.100001 -6.9)
 			(end 1 -6.9)
 			(stroke
 				(width 0.12)
@@ -9410,8 +9412,8 @@
 			(uuid "7d0ab04c-9f20-4366-8f43-c50db678b354")
 		)
 		(fp_line
-			(start -0.2 -2.7)
-			(end 4.9 -2.7)
+			(start -0.199999 -2.699999)
+			(end 4.9 -2.699999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9422,7 +9424,7 @@
 		(fp_arc
 			(start -6.1 -4.9)
 			(mid -5.514214 -6.314214)
-			(end -4.1 -6.9)
+			(end -4.100001 -6.9)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9432,8 +9434,8 @@
 		)
 		(fp_arc
 			(start -2.2 -0.7)
-			(mid -1.614214 -2.114214)
-			(end -0.2 -2.7)
+			(mid -1.614214 -2.114215)
+			(end -0.199999 -2.699999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9442,18 +9444,8 @@
 			(uuid "ed31be65-14b7-4841-a6e0-58a04885708d")
 		)
 		(fp_line
-			(start -9.525 -9.525)
-			(end -9.525 9.525)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "4383fdb4-5a4c-4403-b35b-3c20e789bb77")
-		)
-		(fp_line
-			(start -9.525 9.525)
-			(end 9.525 9.525)
+			(start -9.525 9.524999)
+			(end 9.524999 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -9462,18 +9454,18 @@
 			(uuid "8790e1c3-60d1-4dae-bca6-51771ceb41e8")
 		)
 		(fp_line
-			(start 9.525 -9.525)
-			(end -9.525 -9.525)
+			(start -9.524999 -9.525)
+			(end -9.525 9.524999)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "62e01855-201f-4a1f-8057-34dbbe92baa4")
+			(uuid "4383fdb4-5a4c-4403-b35b-3c20e789bb77")
 		)
 		(fp_line
-			(start 9.525 9.525)
-			(end 9.525 -9.525)
+			(start 9.524999 9.525)
+			(end 9.525 -9.524999)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -9482,38 +9474,18 @@
 			(uuid "cc530db7-bb12-4fe4-b4c3-f980885f0c61")
 		)
 		(fp_line
-			(start -7.8 -6)
-			(end -7 -6)
+			(start 9.525 -9.524999)
+			(end -9.524999 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
-			(layer "Eco1.User")
-			(uuid "bf1feac7-2423-417a-ad18-43f0edc07425")
-		)
-		(fp_line
-			(start -7.8 -2.9)
-			(end -7.8 -6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "550b2dcf-dce6-4cd1-809f-592d83893d63")
-		)
-		(fp_line
-			(start -7.8 2.9)
-			(end -7 2.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "4c7f73f3-4243-40ea-92c0-cebbe6b907c6")
+			(layer "Dwgs.User")
+			(uuid "62e01855-201f-4a1f-8057-34dbbe92baa4")
 		)
 		(fp_line
 			(start -7.8 6)
-			(end -7.8 2.9)
+			(end -7.8 2.899999)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -9522,44 +9494,14 @@
 			(uuid "c32d9c7e-ed12-4fe8-925d-f8d3ad9bffee")
 		)
 		(fp_line
-			(start -7 -7)
-			(end 7 -7)
+			(start -6.999999 7.000001)
+			(end -7 6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "b280ed5a-043a-47e3-9c54-5e27e3d661cd")
-		)
-		(fp_line
-			(start -7 -6)
-			(end -7 -7)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "84b5bb26-e8c1-4682-a237-71bea1323343")
-		)
-		(fp_line
-			(start -7 -2.9)
-			(end -7.8 -2.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "06f23e61-74bf-4f44-b510-e6510ae7ac0f")
-		)
-		(fp_line
-			(start -7 2.9)
-			(end -7 -2.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "8580999b-d7e2-46c1-bfbf-3f147fec8baa")
+			(uuid "aaddbe39-3de3-4282-8840-61019c899852")
 		)
 		(fp_line
 			(start -7 6)
@@ -9572,68 +9514,78 @@
 			(uuid "892cf8ff-3e22-45a4-ab32-805c61ee0339")
 		)
 		(fp_line
-			(start -7 7)
-			(end -7 6)
+			(start -7.8 2.899999)
+			(end -7.000001 2.9)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "aaddbe39-3de3-4282-8840-61019c899852")
+			(uuid "4c7f73f3-4243-40ea-92c0-cebbe6b907c6")
 		)
 		(fp_line
-			(start 7 -7)
-			(end 7 -6)
+			(start -7.000001 2.9)
+			(end -7 -2.900001)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "1df9ae6f-75fe-42f4-99a3-a358040f3e0d")
+			(uuid "8580999b-d7e2-46c1-bfbf-3f147fec8baa")
 		)
 		(fp_line
-			(start 7 -6)
-			(end 7.8 -6)
+			(start -7.8 -2.900001)
+			(end -7.8 -6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "6aa85e91-e8cf-46fa-afca-a17c8bd8b686")
+			(uuid "550b2dcf-dce6-4cd1-809f-592d83893d63")
 		)
 		(fp_line
-			(start 7 -2.9)
-			(end 7 2.9)
+			(start -7 -2.900001)
+			(end -7.8 -2.900001)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "634efa0a-2645-4066-81a4-83afeada01e2")
+			(uuid "06f23e61-74bf-4f44-b510-e6510ae7ac0f")
 		)
 		(fp_line
-			(start 7 2.9)
-			(end 7.8 2.9)
+			(start -7.8 -6)
+			(end -7 -6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "a2f10362-a835-4a53-b51a-67170491323b")
+			(uuid "bf1feac7-2423-417a-ad18-43f0edc07425")
 		)
 		(fp_line
-			(start 7 6)
-			(end 7 7)
+			(start -7 -6)
+			(end -7.000001 -6.999999)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "b811d9b3-d70e-4c51-985e-721b501cb4c6")
+			(uuid "84b5bb26-e8c1-4682-a237-71bea1323343")
 		)
 		(fp_line
-			(start 7 7)
-			(end -7 7)
+			(start -7.000001 -6.999999)
+			(end 6.999999 -7.000001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "b280ed5a-043a-47e3-9c54-5e27e3d661cd")
+		)
+		(fp_line
+			(start 7.000001 6.999999)
+			(end -6.999999 7.000001)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -9642,34 +9594,14 @@
 			(uuid "d8d97b24-20e0-46e0-9c64-3bdeb6f751dc")
 		)
 		(fp_line
-			(start 7.8 -6)
-			(end 7.8 -2.9)
+			(start 7 6)
+			(end 7.000001 6.999999)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "4b18b84e-b503-4be3-a884-59f0a25c6e3e")
-		)
-		(fp_line
-			(start 7.8 -2.9)
-			(end 7 -2.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "d6382d00-3d9a-40ca-bf22-1a0850a2e636")
-		)
-		(fp_line
-			(start 7.8 2.9)
-			(end 7.8 6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "c1b64a51-b306-4fd0-99d6-3e4073bdc6c1")
+			(uuid "b811d9b3-d70e-4c51-985e-721b501cb4c6")
 		)
 		(fp_line
 			(start 7.8 6)
@@ -9682,8 +9614,78 @@
 			(uuid "b1b72507-307b-42e6-91dc-bafdfbd48d42")
 		)
 		(fp_line
-			(start -6 -0.8)
-			(end -6 -4.8)
+			(start 7 2.900001)
+			(end 7.8 2.900001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "a2f10362-a835-4a53-b51a-67170491323b")
+		)
+		(fp_line
+			(start 7.8 2.900001)
+			(end 7.8 6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "c1b64a51-b306-4fd0-99d6-3e4073bdc6c1")
+		)
+		(fp_line
+			(start 7.000001 -2.9)
+			(end 7 2.900001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "634efa0a-2645-4066-81a4-83afeada01e2")
+		)
+		(fp_line
+			(start 7.8 -2.899999)
+			(end 7.000001 -2.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "d6382d00-3d9a-40ca-bf22-1a0850a2e636")
+		)
+		(fp_line
+			(start 7 -6)
+			(end 7.8 -6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "6aa85e91-e8cf-46fa-afca-a17c8bd8b686")
+		)
+		(fp_line
+			(start 6.999999 -7.000001)
+			(end 7 -6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "1df9ae6f-75fe-42f4-99a3-a358040f3e0d")
+		)
+		(fp_line
+			(start 7.8 -6)
+			(end 7.8 -2.899999)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "4b18b84e-b503-4be3-a884-59f0a25c6e3e")
+		)
+		(fp_line
+			(start -6 -0.799999)
+			(end -6 -4.800001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -9692,7 +9694,7 @@
 			(uuid "9e8bbea3-6b76-4bfd-bac3-561f505a193b")
 		)
 		(fp_line
-			(start -6 -0.8)
+			(start -6 -0.799999)
 			(end -2.3 -0.8)
 			(stroke
 				(width 0.05)
@@ -9713,7 +9715,7 @@
 		)
 		(fp_line
 			(start -0.3 -2.8)
-			(end 4.8 -2.8)
+			(end 4.799999 -2.800001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -9723,7 +9725,7 @@
 		)
 		(fp_line
 			(start 4.8 -6.8)
-			(end 4.8 -2.8)
+			(end 4.799999 -2.800001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -9732,8 +9734,8 @@
 			(uuid "d836e3ce-ee00-423a-9cfa-a857d4265673")
 		)
 		(fp_arc
-			(start -6 -4.8)
-			(mid -5.414214 -6.214214)
+			(start -6 -4.800001)
+			(mid -5.414214 -6.214213)
 			(end -4 -6.8)
 			(stroke
 				(width 0.05)
@@ -9754,18 +9756,8 @@
 			(uuid "b0adf4a5-608f-4074-9fed-ff79a0075af7")
 		)
 		(fp_line
-			(start -7.25 -7.25)
-			(end -7.25 7.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "df035bad-abcc-4eeb-b465-0f15fab2ae5d")
-		)
-		(fp_line
-			(start -7.25 7.25)
-			(end 7.25 7.25)
+			(start -7.25 7.249999)
+			(end 7.249999 7.25)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -9774,18 +9766,18 @@
 			(uuid "5e7fe495-5f5a-4a1d-921c-4b1da70e78cc")
 		)
 		(fp_line
-			(start 7.25 -7.25)
-			(end -7.25 -7.25)
+			(start -7.249999 -7.25)
+			(end -7.25 7.249999)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ab394de0-f53b-4f2b-ac86-4abd24139a73")
+			(uuid "df035bad-abcc-4eeb-b465-0f15fab2ae5d")
 		)
 		(fp_line
-			(start 7.25 7.25)
-			(end 7.25 -7.25)
+			(start 7.249999 7.25)
+			(end 7.25 -7.249999)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -9794,8 +9786,18 @@
 			(uuid "a78c736d-92e4-4a50-9159-501ce4e1f20f")
 		)
 		(fp_line
-			(start -6 -0.8)
-			(end -6 -4.8)
+			(start 7.25 -7.249999)
+			(end -7.249999 -7.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "ab394de0-f53b-4f2b-ac86-4abd24139a73")
+		)
+		(fp_line
+			(start -6 -0.799999)
+			(end -6 -4.800001)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9804,7 +9806,7 @@
 			(uuid "07b761d9-850b-472a-8329-180caaa9bd85")
 		)
 		(fp_line
-			(start -6 -0.8)
+			(start -6 -0.799999)
 			(end -2.3 -0.8)
 			(stroke
 				(width 0.12)
@@ -9825,7 +9827,7 @@
 		)
 		(fp_line
 			(start -0.3 -2.8)
-			(end 4.8 -2.8)
+			(end 4.799999 -2.800001)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9835,7 +9837,7 @@
 		)
 		(fp_line
 			(start 4.8 -6.8)
-			(end 4.8 -2.8)
+			(end 4.799999 -2.800001)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -9844,8 +9846,8 @@
 			(uuid "10c8efcf-868a-46e1-ad96-323434ac6021")
 		)
 		(fp_arc
-			(start -6 -4.8)
-			(mid -5.414214 -6.214214)
+			(start -6 -4.800001)
+			(mid -5.414214 -6.214213)
 			(end -4 -6.8)
 			(stroke
 				(width 0.12)
@@ -9866,18 +9868,8 @@
 			(uuid "31359423-e616-4a75-9fbd-b66319c77055")
 		)
 		(fp_line
-			(start -7 -7)
-			(end -7 7)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "77376135-b67c-4245-861e-9799eed39324")
-		)
-		(fp_line
-			(start -7 7)
-			(end 7 7)
+			(start -6.999999 7.000001)
+			(end 7.000001 6.999999)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -9886,18 +9878,18 @@
 			(uuid "9bcd8945-2524-4b40-82a5-37bde5a4c386")
 		)
 		(fp_line
-			(start 7 -7)
-			(end -7 -7)
+			(start -7.000001 -6.999999)
+			(end -6.999999 7.000001)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c5221667-c103-4594-a323-8cba7724a2f3")
+			(uuid "77376135-b67c-4245-861e-9799eed39324")
 		)
 		(fp_line
-			(start 7 7)
-			(end 7 -7)
+			(start 7.000001 6.999999)
+			(end 6.999999 -7.000001)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -9905,8 +9897,18 @@
 			(layer "F.Fab")
 			(uuid "af1bcc04-193c-4759-bbd4-c2bd133e60b2")
 		)
+		(fp_line
+			(start 6.999999 -7.000001)
+			(end -7.000001 -6.999999)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c5221667-c103-4594-a323-8cba7724a2f3")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 156.12)
 			(layer "F.Fab")
 			(uuid "7a60a57b-2219-49d2-bf9c-55bcc0a6e95f")
 			(effects
@@ -9917,42 +9919,42 @@
 			)
 		)
 		(pad "" smd roundrect
-			(at -7.085 -2.54)
+			(at -7.085 -2.54 336.12)
 			(size 2.55 2.5)
 			(layers "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
 			(uuid "e605a256-bc06-48a8-b52b-af9c1c582931")
 		)
 		(pad "" np_thru_hole circle
-			(at -5.08 0)
+			(at -5.08 0 336.12)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
 			(uuid "6bcb4357-e23c-4074-af99-7775e90c1147")
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at 0 0 336.12)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
 			(uuid "4adabc72-9d4f-4423-8d32-b48c1d6af568")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.08 0)
+			(at 5.08 0 336.12)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
 			(uuid "2e94ef31-5447-4a2c-817f-160c4fc5838f")
 		)
 		(pad "" smd roundrect
-			(at 5.842 -5.08)
+			(at 5.841999 -5.08 336.12)
 			(size 2.55 2.5)
 			(layers "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
 			(uuid "4fc72a7a-9096-46e9-9d33-1f1c088a7498")
 		)
 		(pad "1" smd roundrect
-			(at -6.585 -2.54)
+			(at -6.585 -2.54 336.12)
 			(size 3.55 2.5)
 			(layers "B.Cu")
 			(roundrect_rratio 0.1)
@@ -9962,7 +9964,7 @@
 			(uuid "36f092b3-51af-4fd9-aeaf-33b3b24919a7")
 		)
 		(pad "1" thru_hole circle
-			(at -3.81 -2.54)
+			(at -3.81 -2.54 336.12)
 			(size 3.6 3.6)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
@@ -9973,7 +9975,7 @@
 			(uuid "c8bd00ad-32fc-4235-a986-bbd08cd4e1ba")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 -5.08)
+			(at 2.54 -5.08 336.12)
 			(size 3.6 3.6)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
@@ -9984,7 +9986,7 @@
 			(uuid "a540489d-cd5a-4ee8-a71c-0b979634eee9")
 		)
 		(pad "2" smd roundrect
-			(at 5.32 -5.08)
+			(at 5.32 -5.08 336.12)
 			(size 3.55 2.5)
 			(layers "B.Cu")
 			(roundrect_rratio 0.1)
@@ -10009,7 +10011,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "653d189e-4794-4d07-b303-5e1aeca5959f")
-		(at 130.615 90.525)
+		(at 237.55 91.3)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
@@ -10311,7 +10313,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "65c8beef-3512-40a8-9a15-6fda4979d6ab")
-		(at 152.155 101.175)
+		(at 259.09 101.95)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D28"
@@ -10613,7 +10615,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6bf6f2f8-7bc2-4692-ae2d-b8b7f69c9825")
-		(at 141.385 101.175)
+		(at 248.32 101.95)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D17"
@@ -10915,13 +10917,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6f471196-efc9-4511-9028-8b8d7a3f98b9")
-		(at 130.615 79.875)
+		(at 237.55 80.65)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "ece41d9f-a8be-47d1-bda2-623130658761")
+			(uuid "b630857f-267b-4b4e-ba8f-72f3913b3504")
 			(effects
 				(font
 					(size 1 1)
@@ -10932,7 +10934,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "08a1111b-d7ac-4395-b5c8-73f3ff997363")
+			(uuid "35d9f559-0203-4e96-8d90-37bb047f1318")
 			(effects
 				(font
 					(size 1 1)
@@ -10944,7 +10946,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5c596ab1-73bf-4980-b861-ec5028fc3241")
+			(uuid "c3c5f76d-efbc-49c8-b061-8e41ded1ba00")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10955,7 +10957,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0529e3f9-9411-4923-8c0e-cf933ff58c75")
+			(uuid "b567f557-a4ea-4bfd-842d-e0f2ae347c7e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11217,13 +11219,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "709f14c6-1a43-4df3-bada-94813c44b77a")
-		(at 71.36 79.875)
+		(at 71.12 33.363)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW3"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "5caf6d9d-426f-467a-a99c-981b63582abf")
+			(uuid "3245cf89-1e4b-4509-84a1-e977d24b37ad")
 			(effects
 				(font
 					(size 1 1)
@@ -11234,7 +11236,7 @@
 		(property "Value" "SW_PUSH"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "e8e67584-029e-434b-b743-5347d9e443a2")
+			(uuid "b32b3d43-eeb9-4e44-9ea0-8305193dd960")
 			(effects
 				(font
 					(size 1 1)
@@ -11246,7 +11248,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b07788ff-2df0-49db-9b1c-fabd5f5f00c0")
+			(uuid "3c40e0ef-532a-4a1d-981a-feba10ea766c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11257,7 +11259,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "76ce4353-1475-4d1b-b7cf-d32fac96bc5b")
+			(uuid "e3a6f48b-6802-48c8-8d28-0e9a70a9c1b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11925,7 +11927,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "779ef1a0-1743-47ed-98ca-9ca2a3add514")
-		(at 87.995 48.775)
+		(at 52.07 57.15)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW8"
@@ -12633,7 +12635,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "77d17f67-be77-4d90-9d5f-90d516893254")
-		(at 152.155 90.525)
+		(at 259.09 91.3)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D24"
@@ -12935,7 +12937,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "8004f68a-4cdf-47e4-9d54-97fc385902ce")
-		(at 71.36 95.425)
+		(at 90.168 30.981)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW4"
@@ -13643,7 +13645,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "857ccfbf-88d8-482d-86c4-a014093c7a75")
-		(at 121.265 110.975)
+		(at 99.693 111.943)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW28"
@@ -14351,7 +14353,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "8bfd5510-e74b-42e7-bd01-1a7427f05dba")
-		(at 87.995 64.325)
+		(at 71.12 52.413)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW9"
@@ -15059,7 +15061,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8c93bb5c-74cb-468b-9ab2-ff036de9a5de")
-		(at 130.615 101.175)
+		(at 237.55 101.95)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
@@ -15361,7 +15363,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8eb4ea02-c1f7-4da0-b506-7cc57c9f2db9")
-		(at 130.615 94.075)
+		(at 237.55 94.85)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
@@ -15663,7 +15665,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "901b76e7-6e6e-47a1-ac75-9ee3d1f105bd")
-		(at 71.36 110.975)
+		(at 109.218 33.362)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW5"
@@ -16371,7 +16373,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "a06ea5ce-ff40-45d2-b719-02ab781c5b4e")
-		(at 104.63 142.075)
+		(at 71.12 90.513)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW21"
@@ -17079,7 +17081,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a09bcafc-88c8-41c6-a350-a4d500630157")
-		(at 152.155 108.275)
+		(at 259.09 109.05)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D30"
@@ -17381,13 +17383,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "a4f0e171-6864-4d26-8423-20750bbc68dc")
-		(at 71.36 142.075)
+		(at 33.02 57.15)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW7"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "e52ffeef-5f4a-48d9-b1aa-382f70b11668")
+			(uuid "d283147e-cd2a-4d2e-be3b-b0ddd8ee27dd")
 			(effects
 				(font
 					(size 1 1)
@@ -17398,7 +17400,7 @@
 		(property "Value" "SW_PUSH"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "df6a490e-8dae-41e6-a62e-873dfe4c29c7")
+			(uuid "da326ac6-f7b2-4de6-ae6d-7134351eefba")
 			(effects
 				(font
 					(size 1 1)
@@ -17410,7 +17412,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "afa96f6f-bcf2-4d87-abd1-735fb9b1bae1")
+			(uuid "3c86bec6-02bc-45f8-acb8-54ea6fd24d21")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17421,7 +17423,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "76f332b5-0dd1-4991-b9fc-58f18537eece")
+			(uuid "9c5f3fb2-9790-4a57-af40-bee6d1d95588")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18089,7 +18091,7 @@
 	(footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a9db5964-1bc9-4331-a572-487298a8e905")
-		(at 132.515 132.225)
+		(at 239.45 133)
 		(descr "JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf)")
 		(tags "connector JST XH vertical")
 		(property "Reference" "BT1"
@@ -18414,7 +18416,7 @@
 	(footprint "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 		(layer "F.Cu")
 		(uuid "ae04f688-6053-40a6-8f48-cef9455c535a")
-		(at 151.565 117.12)
+		(at 258.5 117.895)
 		(descr "CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf")
 		(tags "switch SPDT")
 		(property "Reference" "SW31"
@@ -18822,13 +18824,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "b38806f6-a403-44ea-b0d1-759d70c63151")
-		(at 87.995 110.975)
+		(at 128.268 54.793)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW12"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "af41788a-6ec9-433a-a11c-01d3f46ff654")
+			(uuid "46d41171-400a-4fbd-b798-bef9ed8cccb9")
 			(effects
 				(font
 					(size 1 1)
@@ -18839,7 +18841,7 @@
 		(property "Value" "SW_PUSH"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "6e65628c-f7d5-4ae3-ab60-cbc2612275cb")
+			(uuid "455ad407-d748-45fd-b82d-6699fff08ef5")
 			(effects
 				(font
 					(size 1 1)
@@ -18851,7 +18853,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0b41e71a-74d9-4feb-b51f-5271063b5f28")
+			(uuid "a6a0592b-cf8e-4e83-a1a7-919f8bb375b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18862,7 +18864,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d2d659a-4d45-478d-b6c1-fc140c1f28b3")
+			(uuid "02da696a-d6c8-455a-971b-45b49d07bada")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19530,7 +19532,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b57cbada-ad6e-483f-bf1a-be1ba555bf15")
-		(at 141.385 111.825)
+		(at 248.32 112.6)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D20"
@@ -19832,7 +19834,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "b5f57d77-c1ce-4396-9b21-0eac225cf1f5")
-		(at 121.265 48.775)
+		(at 90.168 88.131)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW22"
@@ -20540,13 +20542,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b8303132-ca33-4f7d-8eca-666f318d7249")
-		(at 130.615 83.425)
+		(at 237.55 84.2)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "2f31cd92-f079-4035-9f22-5b2b8e53bbdd")
+			(uuid "eb911fce-0110-4dc9-9fa2-5277d0103abb")
 			(effects
 				(font
 					(size 1 1)
@@ -20557,7 +20559,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "7cc5e803-36e3-46db-8631-12213de8de1f")
+			(uuid "af5689f7-a830-4e6c-aabc-5f8bf65d6c3c")
 			(effects
 				(font
 					(size 1 1)
@@ -20569,7 +20571,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d00773f-b717-4049-a1d2-30f39812c516")
+			(uuid "51c2c4a3-c4b4-4231-a005-5fac411fc74e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20580,7 +20582,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ede337fe-97de-468c-9391-816d9d04f662")
+			(uuid "a9bf4e0e-0b8c-499c-8a43-1060a80b14a8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20842,13 +20844,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "b92930ac-46ad-4d9e-a825-d2c00f99a982")
-		(at 87.995 95.425)
+		(at 109.218 52.412)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW11"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "1665fede-68a0-4af4-8e77-2061786e9904")
+			(uuid "8ed593a2-644e-419e-bb8b-45726c18748d")
 			(effects
 				(font
 					(size 1 1)
@@ -20859,7 +20861,7 @@
 		(property "Value" "SW_PUSH"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "4d5f77d3-d268-4fb3-9c04-31f50f183107")
+			(uuid "4e3a455b-da9c-402b-b8bf-0c4e586f8450")
 			(effects
 				(font
 					(size 1 1)
@@ -20871,7 +20873,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0f9e497-808f-4a6c-b629-2581e864d31c")
+			(uuid "d0c88915-5fbd-4146-b390-da34f089da5a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20882,7 +20884,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5178af9a-1d0d-4c12-99f7-576ba8b436d8")
+			(uuid "7d18ffec-9015-4c52-ae7d-db2167b32c05")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21550,7 +21552,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "bafc061a-00ba-418d-b9a1-a6e43486b43c")
-		(at 152.155 104.725)
+		(at 259.09 105.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D29"
@@ -21852,7 +21854,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "cdd9af8e-a00f-44da-bf73-6d5b7d5d9189")
-		(at 141.385 94.075)
+		(at 248.32 94.85)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D15"
@@ -22154,7 +22156,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "d1307edc-c90d-4aff-82d8-2b1038c5238e")
-		(at 104.63 48.775)
+		(at 71.12 71.463)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW15"
@@ -22862,7 +22864,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d238718b-65e4-4f5c-919a-331c7a5dcccc")
-		(at 152.155 97.625)
+		(at 259.09 98.4)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D27"
@@ -23164,7 +23166,7 @@
 	(footprint "Button_Switch_THT:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "d5127253-96ee-444e-8a54-44f46b6ecef7")
-		(at 149.615 122.065)
+		(at 256.55 122.84)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW26"
@@ -23518,7 +23520,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "d7e71dd3-2160-441e-a724-eadb472a9301")
-		(at 121.265 95.425)
+		(at 75.8805 111.943)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW27"
@@ -24226,7 +24228,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "dad36754-92de-4074-b707-fa825c4a7317")
-		(at 104.63 110.975)
+		(at 33.02 95.25)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW19"
@@ -24934,7 +24936,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ddc94a5a-5042-4954-b2e1-49209bb0c045")
-		(at 152.155 83.425)
+		(at 259.09 84.2)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D22"
@@ -25236,7 +25238,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "df62e63a-b80d-48a9-a5c2-ce2c24f0b1cd")
-		(at 152.155 94.075)
+		(at 259.09 94.85)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D25"
@@ -25538,7 +25540,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e00bc4e1-38b5-419c-861d-d1aa754433d2")
-		(at 141.385 104.725)
+		(at 248.32 105.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D18"
@@ -25840,13 +25842,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "e0225a71-c497-4d3f-b3cd-e6b353dea270")
-		(at 121.265 126.525)
+		(at 120.518 114.168 -11.94)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW29"
-			(at 0 -8 0)
+			(at 0 -8 168.06)
 			(layer "F.SilkS")
-			(uuid "9305ac99-53c2-4e7c-8c4e-62ac7b7367dd")
+			(uuid "bc43b67d-8330-4c38-8bee-8b315210c634")
 			(effects
 				(font
 					(size 1 1)
@@ -25855,9 +25857,9 @@
 			)
 		)
 		(property "Value" "SW_PUSH"
-			(at 0 8 0)
+			(at 0 8 168.06)
 			(layer "F.Fab")
-			(uuid "1bfe9415-2747-46b1-a125-a94ebe783c03")
+			(uuid "4d656b22-d2a1-4a93-ba75-39fcb800ecaf")
 			(effects
 				(font
 					(size 1 1)
@@ -25866,10 +25868,10 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 168.06)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f09c6827-44f3-402a-908f-d3e37fa35740")
+			(uuid "a6eb3dd0-45c4-4808-8441-2c32400ccb2d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25877,10 +25879,10 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 168.06)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "230af60d-a985-4b05-92db-97cc98646e03")
+			(uuid "9c6e05ff-e52a-4b33-91c4-3e847e413146")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25899,18 +25901,8 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -7.1 -7.1)
-			(end -7.1 7.1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "5f72fa94-785b-4baa-86fb-ab94f56c59a0")
-		)
-		(fp_line
-			(start -7.1 7.1)
-			(end 7.1 7.1)
+			(start -7.100001 7.1)
+			(end 7.1 7.100001)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -25919,18 +25911,18 @@
 			(uuid "2f944d8a-7158-4c00-8f14-b97027932818")
 		)
 		(fp_line
-			(start 7.1 -7.1)
-			(end -7.1 -7.1)
+			(start -7.1 -7.100001)
+			(end -7.100001 7.1)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "562cb209-f424-4947-8dff-fa86c2761baf")
+			(uuid "5f72fa94-785b-4baa-86fb-ab94f56c59a0")
 		)
 		(fp_line
-			(start 7.1 7.1)
-			(end 7.1 -7.1)
+			(start 7.1 7.100001)
+			(end 7.100001 -7.1)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -25939,7 +25931,17 @@
 			(uuid "4a73ae2c-380b-4551-9d42-6665b106c810")
 		)
 		(fp_line
-			(start -4.1 -6.9)
+			(start 7.100001 -7.1)
+			(end -7.1 -7.100001)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "562cb209-f424-4947-8dff-fa86c2761baf")
+		)
+		(fp_line
+			(start -4.100001 -6.9)
 			(end 1 -6.9)
 			(stroke
 				(width 0.12)
@@ -25961,7 +25963,7 @@
 		(fp_arc
 			(start -6.1 -4.9)
 			(mid -5.514214 -6.314214)
-			(end -4.1 -6.9)
+			(end -4.100001 -6.9)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -25970,7 +25972,7 @@
 			(uuid "41eead4d-d0ed-4184-8d5e-82beb8ba15fd")
 		)
 		(fp_arc
-			(start -2.2 -0.7)
+			(start -2.199999 -0.7)
 			(mid -1.614214 -2.114214)
 			(end -0.2 -2.7)
 			(stroke
@@ -25979,16 +25981,6 @@
 			)
 			(layer "B.SilkS")
 			(uuid "ab56f9fd-1ef8-4d4f-a07e-1252e616b22e")
-		)
-		(fp_line
-			(start -9.525 -9.525)
-			(end -9.525 9.525)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c771131a-e7f5-4325-9db4-a044885f8529")
 		)
 		(fp_line
 			(start -9.525 9.525)
@@ -26001,14 +25993,14 @@
 			(uuid "11c6a716-014c-4793-80f6-78dd544d52d2")
 		)
 		(fp_line
-			(start 9.525 -9.525)
-			(end -9.525 -9.525)
+			(start -9.525 -9.525)
+			(end -9.525 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "32ade1d9-6a17-4916-99e3-4d9a132e1c2d")
+			(uuid "c771131a-e7f5-4325-9db4-a044885f8529")
 		)
 		(fp_line
 			(start 9.525 9.525)
@@ -26021,34 +26013,14 @@
 			(uuid "3ce300e0-738b-4914-9470-50fe6944bb63")
 		)
 		(fp_line
-			(start -7.8 -6)
-			(end -7 -6)
+			(start 9.525 -9.525)
+			(end -9.525 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
-			(layer "Eco1.User")
-			(uuid "5da3c102-4390-4704-813c-86663f6fde2b")
-		)
-		(fp_line
-			(start -7.8 -2.9)
-			(end -7.8 -6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "f63bcae2-8b40-4bc1-9065-16387877602d")
-		)
-		(fp_line
-			(start -7.8 2.9)
-			(end -7 2.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "40d091b9-c8c2-436d-b291-e7e3947aa188")
+			(layer "Dwgs.User")
+			(uuid "32ade1d9-6a17-4916-99e3-4d9a132e1c2d")
 		)
 		(fp_line
 			(start -7.8 6)
@@ -26061,44 +26033,24 @@
 			(uuid "5928f2b5-4cf3-4fd4-b461-ef3734f5a19d")
 		)
 		(fp_line
-			(start -7 -7)
-			(end 7 -7)
+			(start -7 7)
+			(end -7 6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "c8e2c36d-379a-43f0-a51d-41338d6a9d74")
+			(uuid "9b096288-56d8-4d2b-afc1-62edbe51dbf4")
 		)
 		(fp_line
-			(start -7 -6)
-			(end -7 -7)
+			(start -7.8 2.9)
+			(end -7 2.9)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "9d4385b7-fd17-441d-9751-a401eff59c3d")
-		)
-		(fp_line
-			(start -7 -2.9)
-			(end -7.8 -2.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "eab21853-341e-4397-9ee5-cdaaee3f76e5")
-		)
-		(fp_line
-			(start -7 2.9)
-			(end -7 -2.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Eco1.User")
-			(uuid "7487e157-7d42-479d-8b01-d7e4e192fead")
+			(uuid "40d091b9-c8c2-436d-b291-e7e3947aa188")
 		)
 		(fp_line
 			(start -7 6)
@@ -26111,64 +26063,64 @@
 			(uuid "bdc498e2-5138-440f-bdd9-1dd44471d497")
 		)
 		(fp_line
-			(start -7 7)
-			(end -7 6)
+			(start -7 2.9)
+			(end -7 -2.9)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "9b096288-56d8-4d2b-afc1-62edbe51dbf4")
+			(uuid "7487e157-7d42-479d-8b01-d7e4e192fead")
 		)
 		(fp_line
-			(start 7 -7)
-			(end 7 -6)
+			(start -7.8 -2.900001)
+			(end -7.8 -6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "d64d808b-1ed6-47d7-8c79-5405f688e4e0")
+			(uuid "f63bcae2-8b40-4bc1-9065-16387877602d")
 		)
 		(fp_line
-			(start 7 -6)
-			(end 7.8 -6)
+			(start -7.8 -6)
+			(end -7 -6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "ce6cb2db-e716-4b23-8148-fd10138afbb9")
+			(uuid "5da3c102-4390-4704-813c-86663f6fde2b")
 		)
 		(fp_line
-			(start 7 -2.9)
-			(end 7 2.9)
+			(start -7 -2.9)
+			(end -7.8 -2.900001)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "3756897e-3a4a-402e-a43d-0d0255b6ed23")
+			(uuid "eab21853-341e-4397-9ee5-cdaaee3f76e5")
 		)
 		(fp_line
-			(start 7 2.9)
-			(end 7.8 2.9)
+			(start -7 -6)
+			(end -7 -7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "3ae8286b-b48a-4697-8490-608c70df57f0")
+			(uuid "9d4385b7-fd17-441d-9751-a401eff59c3d")
 		)
 		(fp_line
-			(start 7 6)
-			(end 7 7)
+			(start -7 -7)
+			(end 7 -7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "259da709-9056-4d9b-8ee7-5087bd6c7b6a")
+			(uuid "c8e2c36d-379a-43f0-a51d-41338d6a9d74")
 		)
 		(fp_line
 			(start 7 7)
@@ -26181,14 +26133,64 @@
 			(uuid "728dfc0a-d48f-4555-b7e6-98318b15cf0a")
 		)
 		(fp_line
-			(start 7.8 -6)
-			(end 7.8 -2.9)
+			(start 7 6)
+			(end 7 7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "db38bacd-ea37-43b4-8fc6-6ba37ec7b0ea")
+			(uuid "259da709-9056-4d9b-8ee7-5087bd6c7b6a")
+		)
+		(fp_line
+			(start 7 2.9)
+			(end 7.8 2.900001)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "3ae8286b-b48a-4697-8490-608c70df57f0")
+		)
+		(fp_line
+			(start 7.8 6)
+			(end 7 6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "be1534e1-44e3-470d-b73d-a41792a276d1")
+		)
+		(fp_line
+			(start 7.8 2.900001)
+			(end 7.8 6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "bc826c30-a785-4eac-91b0-3f7160e7f4b5")
+		)
+		(fp_line
+			(start 7 -2.9)
+			(end 7 2.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "3756897e-3a4a-402e-a43d-0d0255b6ed23")
+		)
+		(fp_line
+			(start 7 -6)
+			(end 7.8 -6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Eco1.User")
+			(uuid "ce6cb2db-e716-4b23-8148-fd10138afbb9")
 		)
 		(fp_line
 			(start 7.8 -2.9)
@@ -26201,24 +26203,24 @@
 			(uuid "133ca3a6-f8a3-4bb1-94e5-541529741632")
 		)
 		(fp_line
-			(start 7.8 2.9)
-			(end 7.8 6)
+			(start 7 -7)
+			(end 7 -6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "bc826c30-a785-4eac-91b0-3f7160e7f4b5")
+			(uuid "d64d808b-1ed6-47d7-8c79-5405f688e4e0")
 		)
 		(fp_line
-			(start 7.8 6)
-			(end 7 6)
+			(start 7.8 -6)
+			(end 7.8 -2.9)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "be1534e1-44e3-470d-b73d-a41792a276d1")
+			(uuid "db38bacd-ea37-43b4-8fc6-6ba37ec7b0ea")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -26293,16 +26295,6 @@
 			(uuid "8c67537a-9f24-4a61-b9d7-7548040eed08")
 		)
 		(fp_line
-			(start -7.25 -7.25)
-			(end -7.25 7.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c14c18e7-1551-4c06-b314-32c42f8fae33")
-		)
-		(fp_line
 			(start -7.25 7.25)
 			(end 7.25 7.25)
 			(stroke
@@ -26313,14 +26305,14 @@
 			(uuid "fe954284-1bf5-4d43-ad55-e60faef32ada")
 		)
 		(fp_line
-			(start 7.25 -7.25)
-			(end -7.25 -7.25)
+			(start -7.25 -7.25)
+			(end -7.25 7.25)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "050ba9da-735d-4fa9-a390-bd489d82ca65")
+			(uuid "c14c18e7-1551-4c06-b314-32c42f8fae33")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -26331,6 +26323,16 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "afc0f44f-4008-41a6-82de-f9a893ebaf0a")
+		)
+		(fp_line
+			(start 7.25 -7.25)
+			(end -7.25 -7.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "050ba9da-735d-4fa9-a390-bd489d82ca65")
 		)
 		(fp_line
 			(start -6 -0.8)
@@ -26405,16 +26407,6 @@
 			(uuid "a33d7047-84a3-4e5f-85f7-6954db2dd53d")
 		)
 		(fp_line
-			(start -7 -7)
-			(end -7 7)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "42f5de7c-eede-437f-bd3d-26fd86f2a0fe")
-		)
-		(fp_line
 			(start -7 7)
 			(end 7 7)
 			(stroke
@@ -26425,14 +26417,14 @@
 			(uuid "ab8e95b6-d59e-414a-8e62-a8f132caafb4")
 		)
 		(fp_line
-			(start 7 -7)
-			(end -7 -7)
+			(start -7 -7)
+			(end -7 7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "88ae98cb-510d-4f47-9436-b1d56d2acb5e")
+			(uuid "42f5de7c-eede-437f-bd3d-26fd86f2a0fe")
 		)
 		(fp_line
 			(start 7 7)
@@ -26444,8 +26436,18 @@
 			(layer "F.Fab")
 			(uuid "f55cc0ef-3d72-4e27-930f-e57a3309fefb")
 		)
+		(fp_line
+			(start 7 -7)
+			(end -7 -7)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "88ae98cb-510d-4f47-9436-b1d56d2acb5e")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 168.06)
 			(layer "F.Fab")
 			(uuid "f3da1a0d-e3cc-42d5-a814-a11990e394ae")
 			(effects
@@ -26456,42 +26458,42 @@
 			)
 		)
 		(pad "" smd roundrect
-			(at -7.085 -2.54)
+			(at -7.085 -2.54 348.06)
 			(size 2.55 2.5)
 			(layers "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
 			(uuid "f9a16a4f-f003-4d49-adb7-a1e7afab41fe")
 		)
 		(pad "" np_thru_hole circle
-			(at -5.08 0)
+			(at -5.08 0 348.06)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
 			(uuid "149bad1c-4b7e-49dc-a286-c5612c05cd7a")
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at 0 0 348.06)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
 			(uuid "b43fefda-f90c-481e-8469-80e0d818a672")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.08 0)
+			(at 5.08 0 348.06)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
 			(uuid "5af0672b-6006-4c0d-8f8b-ce7cc8a78ea8")
 		)
 		(pad "" smd roundrect
-			(at 5.842 -5.08)
+			(at 5.842 -5.08 348.06)
 			(size 2.55 2.5)
 			(layers "B.Mask" "B.Paste")
 			(roundrect_rratio 0.1)
 			(uuid "b469e14d-9576-441c-b699-cf710f053e5f")
 		)
 		(pad "1" smd roundrect
-			(at -6.585 -2.54)
+			(at -6.584999 -2.54 348.06)
 			(size 3.55 2.5)
 			(layers "B.Cu")
 			(roundrect_rratio 0.1)
@@ -26501,7 +26503,7 @@
 			(uuid "ca28236c-af70-48a1-9eea-f6d9e8fd4554")
 		)
 		(pad "1" thru_hole circle
-			(at -3.81 -2.54)
+			(at -3.81 -2.54 348.06)
 			(size 3.6 3.6)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
@@ -26512,7 +26514,7 @@
 			(uuid "9235f238-670e-445f-ba83-0b9700b7d2bc")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 -5.08)
+			(at 2.54 -5.08 348.06)
 			(size 3.6 3.6)
 			(drill 3.05)
 			(layers "*.Cu" "*.Mask")
@@ -26523,7 +26525,7 @@
 			(uuid "04f580b3-4d5b-4825-917f-9b1c7fdf0d18")
 		)
 		(pad "2" smd roundrect
-			(at 5.32 -5.08)
+			(at 5.32 -5.08 348.06)
 			(size 3.55 2.5)
 			(layers "B.Cu")
 			(roundrect_rratio 0.1)
@@ -26548,7 +26550,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f0407a46-39d4-4316-bc34-a6628e11503b")
-		(at 130.615 97.625)
+		(at 237.55 98.4)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
@@ -26850,7 +26852,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "f4da9b31-ae80-4ac1-bca1-31bcd49d5b6e")
-		(at 104.63 64.325)
+		(at 90.168 69.081)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW16"
@@ -27558,13 +27560,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "f57cab86-e854-4f11-90a8-5e805a99c25b")
-		(at 104.63 79.875)
+		(at 109.218 71.462)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW17"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "c5f60e63-4409-4735-93b3-b9b8f1de748d")
+			(uuid "a7087c1e-961b-4e85-bfcc-c9a087d68340")
 			(effects
 				(font
 					(size 1 1)
@@ -27575,7 +27577,7 @@
 		(property "Value" "SW_PUSH"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "58caf228-45c0-402c-9a95-14ab176ee01a")
+			(uuid "9e5a80c6-a6e9-4d32-820c-b8cd7f911514")
 			(effects
 				(font
 					(size 1 1)
@@ -27587,7 +27589,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80dadc7e-7542-4b8e-91b0-d8c91e490833")
+			(uuid "35d2fa8a-0059-4797-b92a-7c5abecb59e1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27598,7 +27600,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ee1d3b4-b372-4ed9-b354-26dce9310eef")
+			(uuid "653ae47c-7530-4714-8e33-ea6ac6492084")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28266,7 +28268,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f880d71b-a922-42ed-a279-56d77ceb0d3a")
-		(at 141.385 108.275)
+		(at 248.32 109.05)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D19"
@@ -28568,7 +28570,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fcc30c59-9c8d-434e-87a0-8937ec9a5abd")
-		(at 130.615 108.275)
+		(at 237.55 109.05)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
@@ -28870,7 +28872,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fe48a531-0da4-47d9-8d01-1c665a8004a0")
-		(at 141.385 79.875)
+		(at 248.32 80.65)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D11"
@@ -29172,7 +29174,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fe6a0beb-f705-48cc-9f77-f0540f6c7f85")
-		(at 130.615 86.975)
+		(at 237.55 87.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
@@ -29474,13 +29476,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "ff15df44-8d10-498e-9b1c-d4fd8bb554e9")
-		(at 71.36 64.325)
+		(at 52.07 38.1)
 		(descr "Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u")
 		(property "Reference" "SW2"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "0d244a15-d611-4a9d-b224-52f3263d259e")
+			(uuid "87ae76b6-f19b-4714-854e-95075f08ebee")
 			(effects
 				(font
 					(size 1 1)
@@ -29491,7 +29493,7 @@
 		(property "Value" "SW_PUSH"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "613e3440-2af1-4802-8a85-a8569acdafd4")
+			(uuid "2c245e69-b6fb-4448-8288-154b3315d9b0")
 			(effects
 				(font
 					(size 1 1)
@@ -29503,7 +29505,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3bdaca6-4e45-45b0-ae22-1628e5c39ad7")
+			(uuid "c3a93671-b7e6-452e-b21c-6615416b6a00")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29514,7 +29516,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a0560ff-b757-40a8-94dc-47a43b5f9c3f")
+			(uuid "d52ddf1c-a730-447b-90b7-4a5e741ca1a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30182,7 +30184,7 @@
 	(footprint "kbd:ProMicro"
 		(layer "B.Cu")
 		(uuid "d514e283-de68-4d26-bb4a-29d77a0a2620")
-		(at 138.515 62.775 180)
+		(at 245.45 63.55 180)
 		(property "Reference" "U1"
 			(at 0 5 90)
 			(layer "B.SilkS")
