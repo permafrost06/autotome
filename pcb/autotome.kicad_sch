@@ -1750,6 +1750,12 @@
 		(uuid "57242330-e6bc-4571-a6de-64b9b864e167")
 	)
 	(junction
+		(at 147.32 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a10574c-3b5e-440e-b0f9-4d8dcd0cb0e4")
+	)
+	(junction
 		(at 104.14 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1778,12 +1784,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "655e169c-ddf7-4ade-b8b8-182317b5f860")
-	)
-	(junction
-		(at 127 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "74518147-66c2-4e53-8714-96525b7bcfe1")
 	)
 	(junction
 		(at 71.12 105.41)
@@ -2075,16 +2075,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 123.19) (xy 143.51 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42513598-a026-425b-947a-3798095bcf76")
-	)
-	(wire
-		(pts
 			(xy 106.68 85.09) (xy 106.68 95.25)
 		)
 		(stroke
@@ -2145,7 +2135,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 123.19) (xy 127 123.19)
+			(xy 121.92 123.19) (xy 147.32 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2265,6 +2255,26 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 115.57) (xy 152.4 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89131588-f6cb-469d-b7b7-f46608deec8c")
+	)
+	(wire
+		(pts
+			(xy 158.75 123.19) (xy 147.32 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c2d42be-a857-41ab-a77e-8fb3b36ee950")
+	)
+	(wire
+		(pts
 			(xy 35.56 85.09) (xy 35.56 95.25)
 		)
 		(stroke
@@ -2312,16 +2322,6 @@
 			(type default)
 		)
 		(uuid "9f9a3427-6957-44dd-9d2c-08cdf4146c69")
-	)
-	(wire
-		(pts
-			(xy 127 119.38) (xy 127 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fcc6a79-ba6a-4c0c-ad45-25bc6107fc9e")
 	)
 	(wire
 		(pts
@@ -2645,7 +2645,7 @@
 	)
 	(global_label "row 3"
 		(shape input)
-		(at 127 119.38 0)
+		(at 158.75 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2655,7 +2655,7 @@
 		)
 		(uuid "2dc01614-80fa-41bf-9f2c-3bea444c120f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.428 119.38 0)
+			(at 167.178 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2669,7 +2669,7 @@
 	)
 	(global_label "enc A"
 		(shape input)
-		(at 148.59 107.95 90)
+		(at 152.4 100.33 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2679,7 +2679,7 @@
 		)
 		(uuid "3d13a782-7ec8-41ff-9faa-3e8be61fb81d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.59 99.5824 90)
+			(at 152.4 91.9624 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2837,17 +2837,17 @@
 	)
 	(global_label "col 6"
 		(shape input)
-		(at 148.59 130.81 270)
+		(at 160.02 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "552c96ab-0e2e-488e-a72c-41051a58fdd9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.59 138.8751 90)
+			(at 168.0851 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2855,7 +2855,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
@@ -2933,7 +2933,7 @@
 	)
 	(global_label "B-"
 		(shape input)
-		(at 146.05 107.95 90)
+		(at 149.86 100.33 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2943,7 +2943,7 @@
 		)
 		(uuid "6fb65a1e-d7cd-4361-91c3-f76a77b589c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.05 102.1224 90)
+			(at 149.86 94.5024 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3365,7 +3365,7 @@
 	)
 	(global_label "enc B"
 		(shape input)
-		(at 143.51 107.95 90)
+		(at 147.32 100.33 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3375,7 +3375,7 @@
 		)
 		(uuid "fc6cbb5e-27ef-4f30-bcd3-e1576f092cb3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 99.401 90)
+			(at 147.32 91.781 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6205,7 +6205,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder_Switch")
-		(at 146.05 115.57 270)
+		(at 149.86 107.95 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6216,7 +6216,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d0d378a-1f06-41e0-9eec-df7566981cca")
 		(property "Reference" "SW25"
-			(at 152.4 114.2999 90)
+			(at 156.21 106.6799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6227,7 +6227,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 152.4 116.8399 90)
+			(at 156.21 109.2199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6238,7 +6238,7 @@
 			)
 		)
 		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-			(at 150.114 111.76 0)
+			(at 153.924 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6249,7 +6249,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.654 115.57 0)
+			(at 156.464 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6260,7 +6260,7 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
-			(at 146.05 115.57 0)
+			(at 149.86 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8968,7 +8968,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 148.59 127 90)
+		(at 147.32 119.38 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8978,7 +8978,7 @@
 		(dnp no)
 		(uuid "fdbf7b73-44d9-4894-92d1-e8a7609d9a9a")
 		(property "Reference" "D25"
-			(at 147.32 127 90)
+			(at 149.606 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8989,7 +8989,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 138.684 128.27 90)
+			(at 137.414 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9000,7 +9000,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 148.59 127 0)
+			(at 147.32 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9011,7 +9011,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 148.59 127 0)
+			(at 147.32 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9022,7 +9022,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 148.59 127 0)
+			(at 147.32 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9033,7 +9033,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 148.59 127 0)
+			(at 147.32 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9044,7 +9044,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 148.59 127 0)
+			(at 147.32 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
