@@ -91,11 +91,11 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "04a39e4e-55d8-4d22-9757-6287a9229f90")
-		(at 238.125 161.925 90)
+		(at 143.79 123.7)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D25"
-			(at 3.81 -2.12 90)
+			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
 			(uuid "c43241bc-85cc-4fa2-a92e-cb0f4c343454")
 			(effects
@@ -106,7 +106,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 2.12 90)
+			(at 3.81 2.12 0)
 			(layer "F.Fab")
 			(uuid "1f544c3e-af24-4061-b794-31363d01a9f1")
 			(effects
@@ -117,7 +117,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8cc2a6f3-2b01-49a5-9802-81c53ff37f03")
@@ -128,7 +128,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "69edac81-97fa-4208-9c69-11a367d21814")
@@ -139,7 +139,7 @@
 			)
 		)
 		(property "KiLib_Generator" "diode/THT"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9806db57-e69a-4ffb-963a-a098e0759b67")
@@ -151,7 +151,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -164,7 +164,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 90)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -189,24 +189,14 @@
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 2.53 -1.12)
-			(end 2.53 1.12)
+			(start 1.04 0)
+			(end 1.69 0)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bcbcb375-7011-4d4a-88f4-40d87dd8f251")
-		)
-		(fp_line
-			(start 2.41 -1.12)
-			(end 2.41 1.12)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "5eae89bf-c67d-4eff-990c-703bc2a047ed")
+			(uuid "4bb24c4d-51b0-4454-939f-b751e366766a")
 		)
 		(fp_line
 			(start 2.29 -1.12)
@@ -219,6 +209,26 @@
 			(uuid "7938267d-bdb0-4118-bc7c-384ea1ecbeb0")
 		)
 		(fp_line
+			(start 2.41 -1.12)
+			(end 2.41 1.12)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "5eae89bf-c67d-4eff-990c-703bc2a047ed")
+		)
+		(fp_line
+			(start 2.53 -1.12)
+			(end 2.53 1.12)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "bcbcb375-7011-4d4a-88f4-40d87dd8f251")
+		)
+		(fp_line
 			(start 6.58 0)
 			(end 5.93 0)
 			(stroke
@@ -227,16 +237,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "a79fe875-46dd-437d-b0ad-b931503e69cd")
-		)
-		(fp_line
-			(start 1.04 0)
-			(end 1.69 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "4bb24c4d-51b0-4454-939f-b751e366766a")
 		)
 		(fp_rect
 			(start 1.69 -1.12)
@@ -261,24 +261,14 @@
 			(uuid "92f5f333-c5a4-4af2-8486-b81db8473b8e")
 		)
 		(fp_line
-			(start 2.51 -1)
-			(end 2.51 1)
+			(start 0 0)
+			(end 1.81 0)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "03bd472e-1ab8-4a5d-b300-ffde76cd8f56")
-		)
-		(fp_line
-			(start 2.41 -1)
-			(end 2.41 1)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "f2e9201c-af15-4fca-aff1-de531e029430")
+			(uuid "30d2ed0e-edf1-40ed-a987-0842008db6d0")
 		)
 		(fp_line
 			(start 2.31 -1)
@@ -291,6 +281,26 @@
 			(uuid "bf68d038-897a-4b40-ae32-424ecfeeedd5")
 		)
 		(fp_line
+			(start 2.41 -1)
+			(end 2.41 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f2e9201c-af15-4fca-aff1-de531e029430")
+		)
+		(fp_line
+			(start 2.51 -1)
+			(end 2.51 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "03bd472e-1ab8-4a5d-b300-ffde76cd8f56")
+		)
+		(fp_line
 			(start 7.62 0)
 			(end 5.81 0)
 			(stroke
@@ -299,16 +309,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "15c71686-9a22-40c4-8d50-b136553db04b")
-		)
-		(fp_line
-			(start 0 0)
-			(end 1.81 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "30d2ed0e-edf1-40ed-a987-0842008db6d0")
 		)
 		(fp_rect
 			(start 1.81 -1)
@@ -322,7 +322,7 @@
 			(uuid "b080906b-205e-431b-9689-3556932e9e36")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 90)
+			(at 0 -1.8 0)
 			(layer "F.SilkS")
 			(uuid "f3347c7a-fe6e-46f9-8037-f5cf541d547b")
 			(effects
@@ -333,7 +333,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 -1.8 90)
+			(at 0 -1.8 0)
 			(layer "F.Fab")
 			(uuid "3d3f61c6-3520-42ab-92e9-aee585e0ce92")
 			(effects
@@ -344,7 +344,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 90)
+			(at 4.11 0 0)
 			(layer "F.Fab")
 			(uuid "2ade8cdf-2037-4aa6-a888-5c9b8d4982a5")
 			(effects
@@ -355,7 +355,7 @@
 			)
 		)
 		(pad "1" thru_hole roundrect
-			(at 0 0 90)
+			(at 0 0)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -367,7 +367,7 @@
 			(uuid "29f7b8b9-f81f-4a24-8984-3689cef90905")
 		)
 		(pad "2" thru_hole circle
-			(at 7.62 0 90)
+			(at 7.62 0)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -1604,13 +1604,13 @@
 	(footprint "autotome_library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "16a28437-c1c0-4e4a-a0df-b968f7768329")
-		(at 197 115.2 -90)
+		(at 150.2 106.2 -90)
 		(descr "Alps rotary encoder, EC11E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW25"
 			(at 2.8 -4.7 270)
 			(layer "F.SilkS")
-			(uuid "1de36498-c471-4d1c-af6c-fdf31eb78343")
+			(uuid "07a606b2-2cd2-481c-82a8-523aae37397a")
 			(effects
 				(font
 					(size 1 1)
@@ -1621,7 +1621,7 @@
 		(property "Value" "RotaryEncoder_Switch"
 			(at 7.5 10.4 270)
 			(layer "F.Fab")
-			(uuid "8f45efcf-fd22-49ee-bb50-edc1f0e7f6f4")
+			(uuid "2b8365e1-68d2-4af4-91a9-7a17ceed5ee8")
 			(effects
 				(font
 					(size 1 1)
@@ -1634,7 +1634,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "91eea414-2d21-4d35-93db-e415c36923ef")
+			(uuid "19a54407-6ca2-492c-9860-4d72d24c8417")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1647,7 +1647,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48c71eb5-2258-4eff-a7bc-a11b9adec10c")
+			(uuid "9d089a50-43c6-4726-9e98-bfad9e924ac7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14153,7 +14153,7 @@
 		(property "Reference" "BT1"
 			(at 1.25 -3.55 0)
 			(layer "F.SilkS")
-			(uuid "1d4660d8-9b95-4fca-8b0b-b16cfbe518de")
+			(uuid "ba082d92-0f2e-4a34-b95d-80fe21d02a24")
 			(effects
 				(font
 					(size 1 1)
@@ -14164,7 +14164,7 @@
 		(property "Value" "Battery_Cell"
 			(at 1.25 4.6 0)
 			(layer "F.Fab")
-			(uuid "236384f1-bf52-4287-aa0d-32de646d2798")
+			(uuid "b02a42f1-e37c-4524-a7cd-c50f1ebcc101")
 			(effects
 				(font
 					(size 1 1)
@@ -14176,7 +14176,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2e474aa-350e-4863-b318-524c066788f5")
+			(uuid "738cdca3-dad1-46e6-97a8-51d148146318")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14187,7 +14187,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17650ec6-d677-4a8c-bfe3-d41059063b1f")
+			(uuid "6ef55361-0649-450a-8e99-cc6ade23c0ed")
 			(effects
 				(font
 					(size 1.27 1.27)
