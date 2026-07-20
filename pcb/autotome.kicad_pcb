@@ -398,7 +398,7 @@
 		(property "Reference" "D8"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
-			(uuid "d55bf97b-d3fe-4490-a87a-6d2742f975b4")
+			(uuid "49a49700-f912-4944-a9e7-153e034c7843")
 			(effects
 				(font
 					(size 1 1)
@@ -409,7 +409,7 @@
 		(property "Value" "1N4148"
 			(at 8.573 2.12 90)
 			(layer "F.Fab")
-			(uuid "bfedb5d3-abb1-4a07-818a-95052a1d39cd")
+			(uuid "a9b78f15-69f6-4b3a-9f58-b961d468692e")
 			(effects
 				(font
 					(size 1 1)
@@ -421,7 +421,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f0c2b532-067a-427a-8fff-57b764386451")
+			(uuid "90f31819-5387-488e-8cd1-4c07b739ebb8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -432,7 +432,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c79e0b75-c7d0-4a2a-8df5-0843f3c550f4")
+			(uuid "f2d59722-8195-49ee-926e-ec2be774dd18")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -645,7 +645,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 8.873 0 90)
+			(at 4.173 0 90)
 			(layer "F.Fab")
 			(uuid "ca61fbad-5a04-4826-8c6f-2fa40f0d540d")
 			(effects
@@ -6374,7 +6374,7 @@
 		(property "Reference" "D14"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
-			(uuid "f0e97a1f-cbc6-4ce0-bba6-cf57d301045e")
+			(uuid "c50ad455-9a20-4be4-8d74-7b7728952341")
 			(effects
 				(font
 					(size 1 1)
@@ -6385,7 +6385,7 @@
 		(property "Value" "1N4148"
 			(at 8.573 2.12 90)
 			(layer "F.Fab")
-			(uuid "78587833-7443-4b3e-9b29-37342ddb9dcc")
+			(uuid "594c7718-e035-4dc1-9f35-2ca13b32b639")
 			(effects
 				(font
 					(size 1 1)
@@ -6397,7 +6397,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55c1aa46-08d0-4a65-81c1-e72723cbfd9b")
+			(uuid "e87eff53-f3f8-4807-a36f-ebcfbb849e2c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6408,7 +6408,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "56b3135a-23ad-496e-b21f-d399aa8f7c83")
+			(uuid "e0da161b-916f-4bae-8ee5-742971bf6b3c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6621,7 +6621,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 8.873 0 90)
+			(at 4.173 0 90)
 			(layer "F.Fab")
 			(uuid "ca1569c9-d62a-4212-ac98-5d33275f4f6b")
 			(effects
@@ -16802,7 +16802,7 @@
 		(property "Reference" "D2"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
-			(uuid "6c234a00-f652-421c-86b9-a2330f4dc430")
+			(uuid "090bbfbe-b432-43fe-bd32-524afd55102a")
 			(effects
 				(font
 					(size 1 1)
@@ -16813,7 +16813,7 @@
 		(property "Value" "1N4148"
 			(at 8.573 2.12 90)
 			(layer "F.Fab")
-			(uuid "0f10ebc0-d311-4c1b-b611-d2ac0307f286")
+			(uuid "3c85e8c0-0bc2-44d2-b857-47025ca2b919")
 			(effects
 				(font
 					(size 1 1)
@@ -16825,7 +16825,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f91bbdff-031f-422d-8e04-0a0eea924945")
+			(uuid "27e1d665-f38b-4028-8f3d-96f67c99f59d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16836,7 +16836,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d8757ed-5221-454e-8396-a92d6d35f566")
+			(uuid "9655c0b0-5296-4418-8256-c2f805081431")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17049,7 +17049,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 8.873 0 90)
+			(at 4.173 0 90)
 			(layer "F.Fab")
 			(uuid "4ac39414-d086-41d4-9f8a-0b97a5d69e60")
 			(effects
@@ -19938,7 +19938,7 @@
 		(property "Reference" "D20"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
-			(uuid "223fd8e0-54be-43f2-a491-90387c000f65")
+			(uuid "3abd31d7-6ac2-4275-9d9f-33440d70e5db")
 			(effects
 				(font
 					(size 1 1)
@@ -19949,7 +19949,7 @@
 		(property "Value" "1N4148"
 			(at 8.573 2.12 90)
 			(layer "F.Fab")
-			(uuid "0a30787d-a416-4f0e-b42f-2ab7b7864649")
+			(uuid "992bcc44-5426-4d46-9d0e-0f2f151b9a48")
 			(effects
 				(font
 					(size 1 1)
@@ -19961,7 +19961,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3665524a-9071-49f1-94de-31311dc73f69")
+			(uuid "fd0ccf1b-453d-4b10-b02c-ef3212cf9b08")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19972,7 +19972,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9a726cbf-805e-4dab-a57d-969e9dfb6036")
+			(uuid "96445d6e-4e80-4286-a5f1-0573ffe5392c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20185,7 +20185,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 8.873 0 90)
+			(at 4.173 0 90)
 			(layer "F.Fab")
 			(uuid "8264c912-3ad9-4dea-827d-6d79ff3a15df")
 			(effects
