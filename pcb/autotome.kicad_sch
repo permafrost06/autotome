@@ -1995,16 +1995,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 43.18) (xy 104.14 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f377e55-ca1e-4f44-b391-52f961663fb7")
-	)
-	(wire
-		(pts
 			(xy 86.36 123.19) (xy 104.14 123.19)
 		)
 		(stroke
@@ -2442,6 +2432,16 @@
 			(type default)
 		)
 		(uuid "d306253c-41c6-480c-8013-4c2a87ebc021")
+	)
+	(wire
+		(pts
+			(xy 95.25 27.94) (xy 95.25 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d643403b-bca8-4f7a-923c-d27ba2ada87d")
 	)
 	(wire
 		(pts
@@ -3245,7 +3245,7 @@
 	)
 	(global_label "B-"
 		(shape input)
-		(at 111.76 43.18 0)
+		(at 102.87 27.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3255,7 +3255,7 @@
 		)
 		(uuid "e1117278-60ff-417f-9652-9bb4e5a4680f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.5876 43.18 0)
+			(at 108.6976 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6894,7 +6894,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 109.22 43.18 90)
+		(at 100.33 27.94 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6905,7 +6905,7 @@
 		(fields_autoplaced yes)
 		(uuid "b56b52d5-a335-428b-8f30-80640a4a2e8f")
 		(property "Reference" "BT1"
-			(at 107.3785 35.56 90)
+			(at 98.4885 20.32 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6915,7 +6915,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 107.3785 38.1 90)
+			(at 98.4885 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6925,7 +6925,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
-			(at 107.696 43.18 90)
+			(at 98.806 27.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6936,7 +6936,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.696 43.18 90)
+			(at 98.806 27.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6947,7 +6947,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 109.22 43.18 0)
+			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6958,7 +6958,7 @@
 			)
 		)
 		(property "Sim.Device" "V"
-			(at 109.22 43.18 0)
+			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6969,7 +6969,7 @@
 			)
 		)
 		(property "Sim.Type" "DC"
-			(at 109.22 43.18 0)
+			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6980,7 +6980,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 109.22 43.18 0)
+			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
