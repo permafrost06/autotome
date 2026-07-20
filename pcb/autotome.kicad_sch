@@ -6189,7 +6189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(property "Footprint" "my_library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 153.924 104.14 0)
 			(hide yes)
 			(show_name no)
