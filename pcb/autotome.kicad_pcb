@@ -50,7 +50,6 @@
 		)
 		(capping no)
 		(filling no)
-		(grid_origin 136.967258 59.116053)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -9203,7 +9202,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "563ddb0b-4374-4b5c-ac19-159675e9862b")
-		(at 37.7825 57.15 90)
+		(at 37.7825 53.15 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
@@ -17221,13 +17220,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a465de3a-24dc-4597-a93d-1f6661637f7b")
-		(at 56.8325 57.15 90)
+		(at 56.8325 53.15 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
-			(uuid "090bbfbe-b432-43fe-bd32-524afd55102a")
+			(uuid "032a4a60-5455-4d2f-b0bc-44637ec804cb")
 			(effects
 				(font
 					(size 1 1)
@@ -17238,7 +17237,7 @@
 		(property "Value" "1N4148"
 			(at 8.573 2.12 90)
 			(layer "F.Fab")
-			(uuid "3c85e8c0-0bc2-44d2-b857-47025ca2b919")
+			(uuid "0b745f8f-5cf0-4661-b08a-d86c2be9d841")
 			(effects
 				(font
 					(size 1 1)
@@ -17250,7 +17249,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27e1d665-f38b-4028-8f3d-96f67c99f59d")
+			(uuid "4a71dd3b-31d0-409c-9a66-a2ce813196e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17261,7 +17260,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9655c0b0-5296-4418-8256-c2f805081431")
+			(uuid "a02b7c95-f1b0-4964-852c-bd5e35ae6c89")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25105,13 +25104,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d7780e8c-ad87-46ad-96d4-d234d91041b0")
-		(at 133.0325 54.768 90)
+		(at 133.0325 51.768 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
-			(uuid "83d42b89-98c7-421c-8326-e0b0b056a6b0")
+			(uuid "f389f3ce-982e-48ba-a5cf-e43af932a13c")
 			(effects
 				(font
 					(size 1 1)
@@ -25122,7 +25121,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 90)
 			(layer "F.Fab")
-			(uuid "071b5969-5be4-45a6-a43d-bfe02bed8171")
+			(uuid "0d822ad7-b0ed-4877-b4f4-15a2859e3534")
 			(effects
 				(font
 					(size 1 1)
@@ -25134,7 +25133,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "744b5f73-689e-4c21-9063-6ce590f37ef9")
+			(uuid "5dc7c374-6b25-4584-8ce2-9fc21e6f7986")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25145,7 +25144,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6aca70ef-eb73-4e0f-9d34-cc388035414e")
+			(uuid "ef03f23c-f5fa-4f37-9296-be2e55414d0c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31262,8 +31261,18 @@
 		(uuid "5b4b8754-1b9f-4521-939d-c3323ddaff31")
 	)
 	(gr_line
-		(start 18.232504 118.562516)
+		(start 18.232504 54.62)
 		(end 18.232504 43.362516)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "61e80d45-e44f-4310-b970-7b34e61214ab")
+	)
+	(gr_line
+		(start 18.232504 118.562516)
+		(end 18.232504 56.616053)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -31567,13 +31576,43 @@
 	)
 	(gr_line
 		(start 134.785011 40.980505)
-		(end 134.785011 57.616053)
+		(end 134.8 54.62)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "6f0b64d1-2623-4a7a-89b1-b726d469b6f2")
+	)
+	(gr_line
+		(start 134.785011 56.616053)
+		(end 18.232504 56.616053)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "80517236-e7dc-4a21-9d6a-571ac7c040a0")
+	)
+	(gr_line
+		(start 134.785011 56.616053)
+		(end 134.785011 57.616053)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "12b65426-5f4e-48cd-8d20-045a312c85e6")
+	)
+	(gr_line
+		(start 134.8 54.62)
+		(end 18.232504 54.62)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e07896cf-16ce-445b-98c5-a5ad052df6f9")
 	)
 	(gr_arc
 		(start 135.785011 58.616053)
