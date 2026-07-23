@@ -3531,7 +3531,7 @@
 			)
 		)
 	)
-	(global_label "col 2"
+	(global_label "col 3"
 		(shape input)
 		(at 67.31 54.61 0)
 		(fields_autoplaced yes)
@@ -4011,7 +4011,7 @@
 			)
 		)
 	)
-	(global_label "col 4"
+	(global_label "col 1"
 		(shape input)
 		(at 67.31 59.69 0)
 		(fields_autoplaced yes)
@@ -4083,7 +4083,7 @@
 			)
 		)
 	)
-	(global_label "col 0"
+	(global_label "col 5"
 		(shape input)
 		(at 67.31 49.53 0)
 		(fields_autoplaced yes)
@@ -4251,7 +4251,7 @@
 			)
 		)
 	)
-	(global_label "col 5"
+	(global_label "col 0"
 		(shape input)
 		(at 67.31 62.23 0)
 		(fields_autoplaced yes)
@@ -4299,7 +4299,7 @@
 			)
 		)
 	)
-	(global_label "col 1"
+	(global_label "col 4"
 		(shape input)
 		(at 67.31 52.07 0)
 		(fields_autoplaced yes)
@@ -4419,7 +4419,7 @@
 			)
 		)
 	)
-	(global_label "col 3"
+	(global_label "col 2"
 		(shape input)
 		(at 67.31 57.15 0)
 		(fields_autoplaced yes)
