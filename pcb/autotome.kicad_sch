@@ -1966,6 +1966,12 @@
 		(uuid "8bd28e02-24aa-4cb4-9475-67a87516dbc3")
 	)
 	(junction
+		(at 217.17 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d75b210-612a-40a3-9484-dac78a328b3f")
+	)
+	(junction
 		(at 76.2 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2060,6 +2066,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bffb65aa-9429-45a4-82b1-44a84022e9c8")
+	)
+	(junction
+		(at 214.63 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c1da4af7-051c-404e-9836-def00433ee87")
 	)
 	(junction
 		(at 214.63 113.03)
@@ -2687,6 +2699,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 143.51) (xy 232.41 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75283b07-1f3f-4bbd-8f24-bd2408345c8c")
+	)
+	(wire
+		(pts
 			(xy 199.39 95.25) (xy 199.39 105.41)
 		)
 		(stroke
@@ -3014,6 +3036,16 @@
 			(type default)
 		)
 		(uuid "aeec66f3-31d1-4bb5-b648-0e33a6062e86")
+	)
+	(wire
+		(pts
+			(xy 217.17 125.73) (xy 217.17 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1645a1e-a00b-4e1d-8c95-76b631e5f52d")
 	)
 	(wire
 		(pts
@@ -11389,6 +11421,109 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
+		(at 232.41 139.7 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "986c8dd9-7237-4f87-9350-cf82005cbbe5")
+		(property "Reference" "D56"
+			(at 231.14 139.7 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 222.504 140.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 232.41 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 232.41 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 232.41 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 232.41 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 232.41 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a126021b-89a1-47e9-a389-2bcb6508b1ef")
+		)
+		(pin "2"
+			(uuid "62bad345-dfe5-4e03-8bbb-176d22961dc4")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "D56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
 		(at 73.66 129.54 90)
 		(unit 1)
 		(body_style 1)
@@ -12584,6 +12719,84 @@
 			(project "autotome"
 				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
 					(reference "SW47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "kbd:SW_PUSH")
+		(at 224.79 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "af678a2f-3d65-4a38-8723-e4d3d3285c0b")
+		(property "Reference" "SW56"
+			(at 224.79 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_PUSH"
+			(at 222.504 137.922 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
+			(at 224.79 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 224.79 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "090d2db5-a878-4e8d-87fd-bbcfd76e2918")
+		)
+		(pin "2"
+			(uuid "2da34fb0-df09-4dc9-ba69-c1b853214b54")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "SW56")
 					(unit 1)
 				)
 			)
