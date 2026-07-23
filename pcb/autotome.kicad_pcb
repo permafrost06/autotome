@@ -12499,6 +12499,516 @@
 			)
 		)
 	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "2d65d6b1-62d8-4236-a976-cba6f727307a")
+		(at 62.579768 62.985744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J6"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2ca83f53-5a46-40a8-be26-6aecf093341b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "b3fd20d6-bd3a-4722-8f3a-85e20f97eaa7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e5d8d79-caf5-41f6-9b77-3ae018e54f15")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "341c6296-fb73-4053-8e0d-0b6aff6f56c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/57fc3188-b630-4724-9bdb-60e4c6122043")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e1b63c34-e9f1-4e85-92cb-09a67328bae2")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3ef946da-1ec4-404a-bcfc-929941b2c676")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e55c0db9-51c8-4ee9-8b9b-30f375e84303")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f3835a88-5d44-4a01-b65d-028676dca869")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b53f9e6b-b973-4250-89a1-52881d0a9c41")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "17a09f2c-4e27-4fb7-94f8-16a91101ad8d")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "91a9dd3f-e4b1-48bb-a004-fb590958ab21")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "31df3177-1eff-4f5e-bd1e-d0099dc83bb3")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "ed1a0c7d-9c27-4882-a078-4439ca4b6cee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 2")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "d674caa5-2f6d-4499-b4d1-41e7a79b65ee")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "2d9a1517-4ff7-4b2b-a551-14b867a3f96b")
+		(at 83.979768 59.085744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J9"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ae735993-ccba-4cb6-b4c3-3074eac7a86e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "d2a50f53-d2cc-46eb-b74d-26dd5f2c0612")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12ebbff7-1b87-44df-87da-47d545e4a986")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "721e9e57-fe19-4bda-9a6b-55fa2779b8e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/e189c13f-fe43-4d5e-aae9-927432a5efbb")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f1328826-0fc5-4ee4-8ec9-2f2b76e75878")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7b740b97-4f38-42b5-a06b-24d01a3f75f5")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9d86126c-8e88-4455-8a53-0954ad3304b9")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "33c44567-3466-4ac8-a2d2-1acbc6c26776")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "51001ce6-838b-4571-8038-004350129a1e")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "3bc4fbf2-7564-410a-a488-2d5a04e9d0a1")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "cdb044a2-1101-46c8-81f2-39718522fc25")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9c0d1c87-2db3-46c3-bef0-e494960f1f20")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "32f8a04e-79c9-4466-bacc-ef5c9038cc57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 4")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "ff1601c5-9d24-414f-8110-d5e7c4788df0")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "2e422f3f-1c50-434c-93d4-2aea018a70bd")
+		(at 83.879768 62.985744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J10"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "06c83806-d4b4-43e3-b5f9-2b32ecb58fc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "77840c87-8a95-4cfb-974b-c1cc6c792602")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0397361b-d8b8-4865-8e9b-a3e3ac8d6fc0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a25981a-9fb5-4d54-a846-253f4539dfbf")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/79d5298c-6267-4785-b4a1-18f64aadbb51")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c705c1c8-2812-4b3b-a111-5bd56840139e")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7591d86b-1b9b-4bd3-ad6b-6f68110849b6")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a0ce6a6f-b23b-4b8d-af30-f2263c741efb")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "44fe9022-8e50-43cd-9fa4-4102bd2754eb")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "78dc5d04-d8e5-4fef-9b50-3f709d81cbab")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b306a320-f6f2-4448-b316-710e93275ca0")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5e10fbd3-aa55-4f2b-ab03-67d7a11b7773")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e45222e5-126c-449e-814b-8c0af51caacf")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "c4eb3270-73b1-4f87-9596-a14ed4b06067")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 4")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "fe0c75ec-f536-4037-9f07-bce69c37a085")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2e8862e2-6462-4412-aadc-e224f8ca293c")
@@ -14755,6 +15265,176 @@
 			)
 		)
 	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "3204b77e-45e0-4cce-8b13-02092384d202")
+		(at 121.379768 60.485744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J13"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0d361aa2-2fba-4f3c-897e-533f48023e10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "22dc6eb9-94b5-43aa-8eb5-75d73ef2d96b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "270ede27-c831-4bfd-af3d-0baa35b62320")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fde4d191-4bd8-4ac9-9193-bc3c4ff7bfad")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/67b302b9-ae85-45f0-bdb6-1af2f61439a9")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7902ddea-0d30-4a02-b88b-0eb2b4f5b2e2")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4f6336ff-b8c3-49e8-aa8f-9cfdf9e27585")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cd2f0e41-805c-4142-bc84-311f5629a3bf")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d47829f6-4996-4d3e-a016-c7537e766f49")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4d114e37-5d42-4c2d-9e0c-7a8830c5bde2")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4209810f-4699-4ee0-9b54-591f74741728")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d79b123d-90d9-4bf7-82e7-6357efca63ad")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "526211df-42cd-4ebb-be94-a8e5a684e641")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "34759f1f-bf3c-429c-ad93-a51644112dd3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "row 0")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "60c32dd5-f59f-445e-a402-9516f700e8c4")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
 		(uuid "333eb8b1-d84f-4f55-809b-c8dded4f4ddc")
@@ -16022,6 +16702,176 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "3829bca1-62e0-4404-82a7-30622b64195c")
+		(at 121.779768 65.385744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J14"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "df6e6f14-287a-42e4-bf3f-aa65a40f1f88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "1f08cb2f-5aa6-403d-bfff-4fcc2d8cda6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "828bb382-dab5-4527-baa9-0ef9767a5f37")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4f2e393-ff71-4d72-937d-c95b1a1f1dd4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/3d4098a0-aae8-4604-a673-4fa53bc7ea8f")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "eaed25a3-f4a6-455a-b41a-b2426d03f85f")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "18a14130-2c6f-4ae5-9607-11c1fab34074")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b01f23e4-3a95-4e95-9ed7-d10f398af3a8")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3e5b0a54-c05f-4a12-be94-f1c7e06d5455")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0d31b92a-11d2-4dbb-a737-5990ca5f108e")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "a20d483b-6cf5-444c-9c28-e1a0e865416f")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "02b02bc2-d631-4017-8fe7-df1cd87a154f")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2f4050ce-1993-46cb-ae58-ff4954d4fef2")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "e6c91fe4-9d11-42b5-bf94-f498c44be5e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "row 0")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "c353bfbe-fdd9-4e70-993a-53f0359209ec")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
@@ -18214,6 +19064,176 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "3dfe09c8-7fdd-448a-818b-3358c3938871")
+		(at 62.279768 59.085744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J5"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "823512c1-e19e-40d1-b27a-43601b0cd4b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "f2faf679-28bc-4489-8014-7fb3a0ec8be3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9d718f5-d494-4b43-943f-69b14d94eaed")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe10d6ec-b67e-4003-992a-79e21874adda")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/577cf983-32ea-4e8e-8994-ccf1b0345bca")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ac018b45-313e-4436-94ae-b77f08cb8548")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cd040f16-d9fa-4984-91f1-b6a6c0216305")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ffe2b467-89b6-4cec-a774-e7f203b118f7")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8e17694c-8bcb-4fb1-8491-c45b0b293e05")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9a62d83d-545a-44b2-8628-7b092f9252e2")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "a766526a-6e64-4fac-8bf1-7e9a43e9f5a3")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "33454176-80d4-4cef-8e97-dc28c5a2633e")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "393b40d6-0e7d-46fa-b8a1-dc01e6f06e0b")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "5874c222-f78f-4ce1-8820-591a9dea7cd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 2")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "71e7402e-7862-43d2-aaa8-c8709ca9dbae")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
@@ -26057,6 +27077,346 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "5e457878-ff1d-4f54-8a67-70e3bca17d22")
+		(at 119.679768 65.385744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J12"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8894ab43-b09f-4a7f-888e-5a85f0337c6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "c4679899-b36a-4676-9b1b-a360ea26d471")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e0a50b5-7903-4ef1-aede-f9351a5690f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "509ca6be-b182-47f7-9f76-4b9d2a613984")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/e5d096ab-d0cb-49a0-8fc9-d540027f8fc9")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "bd35295d-6600-4800-bbb4-995d5eb5d8b7")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "35bddee2-bd73-4cec-83a8-c4daca75de16")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d88db495-bacc-4a75-bd81-0ad17b92a16c")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ce707a6b-341c-42c7-943a-3d1e2e6d89fc")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "62872599-5b74-43c2-b1fc-20f8e8a52f0c")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "73466dd4-124d-4116-b5a9-6b3e18dd4ba4")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c2fb1629-d27a-4c63-88d0-e519d35afc79")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "240bcced-c198-4bbb-b164-1d26cbb76310")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "f4659987-b502-4fe1-9e33-bc51e80f8cba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 5")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "240e59f1-1858-41bb-8afc-2afb564ca5f2")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "600f603a-4e1b-4b32-96e8-ebe629fb9648")
+		(at 119.379768 60.485744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J11"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d331cc6d-7e14-45f3-a9a6-7adc5893c9f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "d1912ea8-ebc0-41fe-9dc5-5e77a91753f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ceff76b2-2ff6-41c1-a80a-9423f218e1aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae5b3969-5f22-4e43-8018-d79758130758")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/1822b0fc-09f9-4586-bc19-8461bc688f5e")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2ef0e978-bcc2-4d66-af47-1c2b9afeb212")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b4949c6e-d94d-4809-9e45-5822a4304416")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a28c7f7c-6dad-40e3-a949-29485bdf7d7c")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "59f68630-b0b3-48c4-a92e-82c5ea14bf2c")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c44ec532-591e-486d-8196-d974f7348230")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9c45987f-a16a-4fb3-a5e7-451ec69aace7")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "77a9ee3a-99b2-4350-a43b-6834eaa4939e")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "fde62bc9-09ca-459d-bc31-b4c6d5853204")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "6f374914-4648-4f98-9c41-d7c776ee1307")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 5")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "de76836c-b6b7-4137-82fa-309881828035")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -34579,6 +35939,176 @@
 			)
 		)
 	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "844d11d3-1e76-45ca-bdeb-0a597f22319d")
+		(at 64.979768 60.385744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J8"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f30d7e2f-c95d-4d31-b7e5-eedf9d9beab8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "629c625f-082f-48bd-913c-193c292fd656")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24766c3f-ac0a-4be5-904a-e6b32573e9a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ad11d3e-2fd2-47ea-892e-c47fadc419d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/e28600c6-7dca-4197-9db0-d29c494fec62")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cf3aa174-0a79-4576-80ed-1832db1260fb")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2e7d07a4-f71b-4c12-a03f-ca6374b33ab9")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "fb8ebc38-72de-4f6a-a857-66c910a14f2d")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "699296d8-6be3-4812-8b13-5a6ae01940a8")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "850e0930-08d2-4c8d-b13e-b4d84bcd0820")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e7b351c2-1b9f-4784-8c85-0a8e2bbb3ac0")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "afcd82c1-85e8-4476-93d0-f09097245799")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "a3383aa8-7b60-4400-bf11-07c7093e050c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "58762624-d634-43b0-843f-15ddf2bb233c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 3")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "4d9332d5-a6a3-45b9-87b0-db931856e7bf")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "848bda9f-b4e1-4aa3-9afe-d40040b95f6f")
@@ -36882,6 +38412,176 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "8fec76d4-7df6-4307-934b-3eb33157e2aa")
+		(at 7.079768 63.785744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J1"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1b0fc20a-195d-456d-8987-dac6f944c18a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "0451cde5-8172-44c1-b9e2-a79a635138e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27de829f-f62a-4bed-aaba-d02317117cd7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2778bbc3-c997-4c92-a931-be06c8d956e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/04409a2b-01b1-4e2a-91ed-043515f1b9f5")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "090a7ac1-9bfb-474c-8dea-24375e801e3f")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c16ec4f4-fcd2-4983-866f-08a0daec780d")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "26e8bdd6-744f-44f9-b956-8c88ae40ae7d")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7ab63188-258e-4f77-b6f5-a3cc8fc9ea79")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "8bfc8411-a909-4d64-a243-e3b50fac435c")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "dde7bdfc-1f57-4084-9ba1-65823864ac95")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0e977c3c-36b5-472a-8d6d-fcad283b03ff")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "3be958df-76ef-4d58-a9c6-91554bef2799")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "bce58ae7-987b-4736-b4d1-30ac997df282")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 0")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "fba1b9f1-c597-4dda-b69a-f7dd0b63721d")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -47021,6 +48721,176 @@
 			)
 		)
 	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "b968be2b-44b6-4053-9e7a-aaa278e407b5")
+		(at 7.079768 67.785744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J2"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "42f2a156-0ba9-45b6-8c92-0cfbf9dacd37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "795afcc7-dd85-4998-977c-8548e6f1be13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df2c97fe-4d97-42f1-b953-00e0b93e4a60")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1ae56bd-cd39-4ad0-a878-bc7ffd37d11d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/acd6712c-861d-4779-8e66-2de0d281145f")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ecfae902-9e8e-47fa-a861-02204939af91")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "dc53b0ab-28c6-4982-bc0e-6688a360e362")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2174ebd5-23d0-4569-9fc8-8216fc88fa1d")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4412de58-f82e-43a4-bb1a-e903b4e2b5e0")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9d454f76-8062-4111-a068-45f519024521")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "f52872b0-e120-474c-b42e-9f39815ac11e")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "81552ed6-2551-43ee-b48f-e1635fad9114")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "68a87f8a-fb9c-45d4-bef3-e56d40487370")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "f486f821-0a7d-4793-ac73-95645488d28a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 0")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "5372be48-c21d-4b43-9b3f-f3a19f56bdb3")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "MountingHole:MountingHole_2.7mm_M2.5"
 		(layer "F.Cu")
 		(uuid "bba7da46-3f21-4484-9173-8a72a8c9992c")
@@ -47125,6 +48995,176 @@
 			(drill 2.7)
 			(layers "*.Cu" "*.Mask")
 			(uuid "ff519535-3751-4803-afea-4120947a782f")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "bbc1cf11-4d95-48b8-b127-d1ba20a7cad9")
+		(at 65.679768 56.685744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J7"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9e5d357d-7a12-46c6-a8f6-5ef3d664b505")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "417d0a4a-c5db-4fad-b211-6eac6ffaeef1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c5aede0-6481-42dd-8987-ed05d76f25f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07b18c94-dd8b-4134-b737-33dd9563e135")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/038b7497-4fde-47f0-9645-95fcae18fadd")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f02d6198-11c8-49d7-a0df-4ada212e14a0")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "44708836-6e6f-4c1a-bf7b-62095c80107d")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6c0dbee1-20aa-4b9f-bcc5-733a35cdad34")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ebd85200-0e66-401e-b2ac-ff06b68c4856")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "b22ae33c-acf1-41f5-872b-decc75760f0d")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "7e9b94f6-8e1b-4874-ae76-901253fff470")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "099a1182-f5d4-4304-9ec9-32fd2b2e7505")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "1de8f006-3d7f-43ef-a380-4f6ecfb478dd")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "29abee14-3a3e-4bed-b156-19a1f8b2f6f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 3")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "5e163165-45d6-44f8-acb7-91d3a8ade92e")
 		)
 		(embedded_fonts no)
 	)
@@ -50206,7 +52246,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D31"
-			(at 4.198801 0.012281 -90)
+			(at 4.198801 0.012281 270)
 			(layer "B.SilkS")
 			(uuid "44d5799d-fe3e-4afa-a53e-342f02521e58")
 			(effects
@@ -52672,6 +54712,176 @@
 			)
 		)
 	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "d1233427-91a0-49bf-ac8c-dfd77e6b26df")
+		(at 43.479768 67.785744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J4"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8940beb4-9253-42ee-9aca-affc81ee43f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "4202a0f5-0e9c-4621-b4f7-90e686990c4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29f81c17-6f51-41f3-b3cc-e31f55522110")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df477514-98af-4b78-ab61-46b507ea3268")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/0a4aa165-f4b4-420e-8943-0a32bc6ef5f1")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c6fc8595-fe8d-40e3-8f44-af9e00a7c842")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e4744263-2129-4555-9815-5811c1048a16")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a0f968e5-54b2-4760-8a17-1af29ada3a36")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ee906c03-5046-4763-8f9e-873a6f70f53d")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c3441aa2-538e-4f70-8054-6831642bb2c8")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "432f804f-cb1b-44c7-8173-9669fd2a8ae1")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "3a426710-2b11-49bd-ac12-d61a3571673d")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "fa047433-459d-44b4-b9ac-d06cdbe3a783")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "a9845cf9-1b0a-4ac3-969c-e71bdbbd946b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 1")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "8ee70b34-f432-4ff2-a178-b896d4ea299f")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d2bbfbc4-aeb4-4ba0-a85b-03cfcebe7f4b")
@@ -53556,6 +55766,176 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+		(layer "F.Cu")
+		(uuid "d56de9c0-c6cf-41be-a9f2-16e6da1d54d9")
+		(at 43.179768 63.785744)
+		(descr "THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm")
+		(tags "test point THT pad rectangle square")
+		(property "Reference" "J3"
+			(at 0 -1.448 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "46eeb5c0-1190-4835-96de-6d962e7d7c23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1.55 0)
+			(layer "F.Fab")
+			(uuid "d5960b8b-b4de-4f06-b808-d18273f443d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b37eb14b-9859-43e5-9461-b4e28263887c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "788b0c6f-d3b4-4381-816c-cc73aa3b368a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/41256687-8ea4-450d-a202-2a560ee28c05")
+		(sheetname "/")
+		(sheetfile "autotome.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.7 -0.7)
+			(end 0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4c9d1859-3402-4116-889a-057fa2212a79")
+		)
+		(fp_line
+			(start -0.7 0.7)
+			(end -0.7 -0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b7d2da68-8593-4a93-bab5-175cffa1e87f")
+		)
+		(fp_line
+			(start 0.7 -0.7)
+			(end 0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "46e23f1c-063f-4459-b74c-47f3ca31f31a")
+		)
+		(fp_line
+			(start 0.7 0.7)
+			(end -0.7 0.7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7889a247-2090-44e2-9a69-66fea48f6001")
+		)
+		(fp_line
+			(start -1 -1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "ee82e26c-91a4-4a7a-a912-57d6d35b0b8b")
+		)
+		(fp_line
+			(start -1 -1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "13c005ef-a91e-4bc9-8177-7b4c193c2e07")
+		)
+		(fp_line
+			(start 1 1)
+			(end -1 1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0a5eceff-5365-4b7f-947b-61d12528ede7")
+		)
+		(fp_line
+			(start 1 1)
+			(end 1 -1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "33d8d505-fff9-4385-b38c-ad4299ba08ac")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -1.45 0)
+			(layer "F.Fab")
+			(uuid "d8db90f2-4700-4f5b-ba7a-565d74149ee5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1 1)
+			(drill 0.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "col 1")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "a73eb8e5-809b-43f0-8ae6-7a8673226e37")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 		(layer "F.Cu")
@@ -69446,6 +71826,14 @@
 		(uuid "04a2573e-e0e5-4c0c-a17d-db774f6e6340")
 	)
 	(segment
+		(start 121.8675 65.473476)
+		(end 121.8675 76.798012)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "row 0")
+		(uuid "1e85bc10-44ba-431c-a8ce-428cc14a2d0c")
+	)
+	(segment
 		(start 63.6175 56.155503)
 		(end 80.2865 56.155503)
 		(width 0.2)
@@ -69510,6 +71898,14 @@
 		(uuid "61812739-d026-4160-b81c-8fddc34142a8")
 	)
 	(segment
+		(start 121.8675 76.798012)
+		(end 121.865627 76.799885)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "row 0")
+		(uuid "66b51112-933c-4d57-adb0-e2196ec72656")
+	)
+	(segment
 		(start 124.9116 83.408503)
 		(end 125.9736 84.470503)
 		(width 0.2)
@@ -69518,7 +71914,15 @@
 		(uuid "7d4eab92-b011-4922-a40c-52de9cbba8f5")
 	)
 	(segment
-		(start 119.871244 74.805503)
+		(start 121.779768 65.385744)
+		(end 121.8675 65.473476)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "row 0")
+		(uuid "8073c3bf-ef5c-4826-9b96-834864cb1ba9")
+	)
+	(segment
+		(start 121.865627 76.799885)
 		(end 124.9116 79.845859)
 		(width 0.2)
 		(layer "F.Cu")
@@ -69540,6 +71944,14 @@
 		(layer "F.Cu")
 		(net "row 0")
 		(uuid "93a6c92d-b929-4ddc-bccb-d4a5322400bf")
+	)
+	(segment
+		(start 121.379768 56.148771)
+		(end 120.7675 55.536503)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "row 0")
+		(uuid "9f605170-dbaf-4ab6-bbcd-276cff656d64")
 	)
 	(segment
 		(start 120.1485 56.155503)
@@ -69572,6 +71984,22 @@
 		(layer "F.Cu")
 		(net "row 0")
 		(uuid "ceeb4044-2ac5-4200-a26a-8ec494865745")
+	)
+	(segment
+		(start 119.871244 74.805503)
+		(end 121.865627 76.799885)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "row 0")
+		(uuid "d39fc357-b9a2-423a-9b96-5ad9404d9beb")
+	)
+	(segment
+		(start 121.379768 60.485744)
+		(end 121.379768 56.148771)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "row 0")
+		(uuid "d6773aba-4afe-46f4-bdfc-4d80c6c627b5")
 	)
 	(segment
 		(start 120.7675 55.536503)
@@ -69622,7 +72050,7 @@
 		(uuid "1ddf7ab3-333e-4ebd-ba49-eb931aacca6a")
 	)
 	(segment
-		(start 107.4325 58.232586)
+		(start 109.732713 60.532799)
 		(end 110.992487 61.792573)
 		(width 0.2)
 		(layer "B.Cu")
@@ -69630,7 +72058,7 @@
 		(uuid "1e8c5562-4d30-4bba-840e-f45bb120626c")
 	)
 	(segment
-		(start 110.992487 61.792573)
+		(start 110.992487 65.285744)
 		(end 110.992487 66.724016)
 		(width 0.2)
 		(layer "B.Cu")
@@ -69662,6 +72090,22 @@
 		(uuid "456ff7d7-db97-488a-ad49-62af904720bc")
 	)
 	(segment
+		(start 110.992487 61.792573)
+		(end 110.992487 65.285744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 5")
+		(uuid "4d756506-8432-440e-b6b5-56a8c328e9e8")
+	)
+	(segment
+		(start 107.4325 58.232586)
+		(end 109.732713 60.532799)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 5")
+		(uuid "50d31629-7eac-4df3-8479-50a1e2a6bf05")
+	)
+	(segment
 		(start 107.4325 121.077251)
 		(end 120.969251 134.614002)
 		(width 0.2)
@@ -69670,12 +72114,44 @@
 		(uuid "515884c2-c089-484d-b373-045baf9ea880")
 	)
 	(segment
+		(start 119.379768 60.485744)
+		(end 109.779768 60.485744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 5")
+		(uuid "688d3212-8075-4d86-8d8c-1db2dfd1cfcb")
+	)
+	(segment
+		(start 111.092487 65.385744)
+		(end 110.992487 65.285744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 5")
+		(uuid "812b0c7a-c6ce-45e4-92df-c8a8ce1623f3")
+	)
+	(segment
+		(start 119.679768 65.385744)
+		(end 111.092487 65.385744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 5")
+		(uuid "abc92bd9-65a0-4ffb-ad4e-531c8da11b8c")
+	)
+	(segment
 		(start 122.769251 132.814002)
 		(end 122.769251 100.354852)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "col 5")
 		(uuid "c750e4ef-056e-4718-9469-fd28ac2f243d")
+	)
+	(segment
+		(start 109.779768 60.485744)
+		(end 109.732713 60.532799)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 5")
+		(uuid "cfa03e9b-64e0-4a8f-beb9-3cedc7da50ad")
 	)
 	(segment
 		(start 209.032487 46.313045)
@@ -69758,7 +72234,7 @@
 		(uuid "cae8cd22-ae43-4267-87cb-12341b753bd2")
 	)
 	(segment
-		(start 69.3325 46.472003)
+		(start 69.3325 53.385744)
 		(end 69.3325 53.50553)
 		(width 0.2)
 		(layer "B.Cu")
@@ -69798,6 +72274,14 @@
 		(uuid "26341c95-4cf5-4f08-b716-95ce74a90111")
 	)
 	(segment
+		(start 65.679768 56.685744)
+		(end 66.0325 56.685744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 3")
+		(uuid "30acd9f0-426f-4451-a64d-6a8a27247cfd")
+	)
+	(segment
 		(start 72.929768 57.102798)
 		(end 72.929768 61.924735)
 		(width 0.2)
@@ -69822,6 +72306,14 @@
 		(uuid "48cc1f0f-ce4a-4463-b846-9cf3dbe595cb")
 	)
 	(segment
+		(start 64.979768 63.944271)
+		(end 66.5575 65.522003)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 3")
+		(uuid "49e8011f-1b7a-414a-ad88-426054073be1")
+	)
+	(segment
 		(start 131.029768 97.174335)
 		(end 141.1936 87.010503)
 		(width 0.2)
@@ -69836,6 +72328,14 @@
 		(layer "B.Cu")
 		(net "col 3")
 		(uuid "5b950ed9-ddd4-43f9-a700-2643b6290f22")
+	)
+	(segment
+		(start 66.0325 56.685744)
+		(end 69.3325 53.385744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 3")
+		(uuid "766522ee-cb8e-40a1-bc89-964997636d0a")
 	)
 	(segment
 		(start 124.39825 140.82894)
@@ -69854,6 +72354,14 @@
 		(uuid "7dc295db-c0be-41fc-b099-7b4c32976f31")
 	)
 	(segment
+		(start 69.3325 46.472003)
+		(end 69.3325 53.385744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 3")
+		(uuid "90fd3747-d2d4-48f2-990d-2dfd2cf1be0b")
+	)
+	(segment
 		(start 69.3325 65.522003)
 		(end 69.3325 115.619898)
 		(width 0.2)
@@ -69868,6 +72376,14 @@
 		(layer "B.Cu")
 		(net "col 3")
 		(uuid "968c05a0-dec8-4266-be15-54b1111f76e2")
+	)
+	(segment
+		(start 64.979768 60.385744)
+		(end 64.979768 63.944271)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 3")
+		(uuid "98ff9aa8-f822-4711-b27a-5e7b975ed9f0")
 	)
 	(segment
 		(start 69.3325 115.619898)
@@ -69966,7 +72482,7 @@
 		(uuid "0451a2fd-5fa8-49d3-9266-80f322072ca8")
 	)
 	(segment
-		(start 80.28298 60.882003)
+		(start 83.133244 63.732268)
 		(end 87.30398 67.903003)
 		(width 0.2)
 		(layer "B.Cu")
@@ -69988,6 +72504,14 @@
 		(layer "B.Cu")
 		(net "col 4")
 		(uuid "36ad6169-114e-42e0-8bed-a17d7501ab8a")
+	)
+	(segment
+		(start 83.979768 57.50074)
+		(end 78.481018 52.00199)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 4")
+		(uuid "48a7d315-6234-44a5-8591-9348eb653e8c")
 	)
 	(segment
 		(start 87.30398 67.903003)
@@ -70046,7 +72570,15 @@
 		(uuid "8f71a81b-f779-4693-806e-64bc46f84643")
 	)
 	(segment
-		(start 81.545001 48.853003)
+		(start 83.879768 62.985744)
+		(end 83.133244 63.732268)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 4")
+		(uuid "904731dd-12b5-4db8-a4d2-269d22b447b1")
+	)
+	(segment
+		(start 78.396014 52.00199)
 		(end 73.362487 57.035517)
 		(width 0.2)
 		(layer "B.Cu")
@@ -70078,6 +72610,30 @@
 		(uuid "9d509939-55af-4886-a13b-b125b75e2cc0")
 	)
 	(segment
+		(start 78.481018 52.00199)
+		(end 78.396014 52.00199)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 4")
+		(uuid "a8adb6fd-7e5a-4bf2-a35d-6d1749af1db9")
+	)
+	(segment
+		(start 80.28298 60.882003)
+		(end 83.133244 63.732268)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 4")
+		(uuid "b2378b90-1727-4595-b29b-a718099d8c14")
+	)
+	(segment
+		(start 81.545001 48.853003)
+		(end 78.396014 52.00199)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 4")
+		(uuid "ba050765-e4ca-4114-a2f8-f10b416d207d")
+	)
+	(segment
 		(start 103.557295 128.774762)
 		(end 106.599768 131.817235)
 		(width 0.2)
@@ -70100,6 +72656,14 @@
 		(layer "B.Cu")
 		(net "col 4")
 		(uuid "d3d1d7a1-7d8b-4d7b-aa69-553e72e72779")
+	)
+	(segment
+		(start 83.979768 59.085744)
+		(end 83.979768 57.50074)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 4")
+		(uuid "f4327515-432a-44fd-b49a-4530a92d90a1")
 	)
 	(segment
 		(start 73.362487 60.148463)
@@ -70134,6 +72698,14 @@
 		(uuid "02cfd8c9-c2ec-483d-8094-ed3592a68842")
 	)
 	(segment
+		(start 62.279768 59.085744)
+		(end 53.479768 59.085744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 2")
+		(uuid "08a883ca-bbb3-4f7b-b36c-dd41978a5f9e")
+	)
+	(segment
 		(start 66.263402 133.636503)
 		(end 81.072276 133.636503)
 		(width 0.2)
@@ -70156,6 +72728,14 @@
 		(layer "B.Cu")
 		(net "col 2")
 		(uuid "38f178e0-012b-4b2d-8b79-8c8d41d6454f")
+	)
+	(segment
+		(start 62.579768 62.985744)
+		(end 53.812487 62.985744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 2")
+		(uuid "3b33b07f-427a-4b54-ac5e-105233a9c45d")
 	)
 	(segment
 		(start 81.072276 133.636503)
@@ -70182,7 +72762,7 @@
 		(uuid "5fe72cad-9539-4182-9230-faa66b970ff4")
 	)
 	(segment
-		(start 50.2825 55.89553)
+		(start 53.476241 59.089271)
 		(end 53.812487 59.425517)
 		(width 0.2)
 		(layer "B.Cu")
@@ -70198,7 +72778,7 @@
 		(uuid "801ccdbd-3fac-496c-af8e-478c5359b4e7")
 	)
 	(segment
-		(start 53.812487 59.425517)
+		(start 53.812487 62.985744)
 		(end 53.812487 64.373016)
 		(width 0.2)
 		(layer "B.Cu")
@@ -70220,6 +72800,14 @@
 		(layer "B.Cu")
 		(net "col 2")
 		(uuid "95997d4f-5314-4ddf-9d4b-cf43f44423c7")
+	)
+	(segment
+		(start 53.479768 59.085744)
+		(end 53.476241 59.089271)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 2")
+		(uuid "9608afcd-fc21-4468-a4ed-7d286ca51f74")
 	)
 	(segment
 		(start 50.2825 67.903003)
@@ -70246,6 +72834,14 @@
 		(uuid "b2718124-e2c8-4f03-83af-7b375d81e4bd")
 	)
 	(segment
+		(start 53.812487 59.425517)
+		(end 53.812487 62.985744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 2")
+		(uuid "b3da25d2-54f2-4f4c-9627-511aa938ea90")
+	)
+	(segment
 		(start 120.611796 141.22894)
 		(end 124.563936 141.22894)
 		(width 0.2)
@@ -70268,6 +72864,14 @@
 		(layer "B.Cu")
 		(net "col 2")
 		(uuid "cebf7b96-7c6e-4e42-96c0-e7ed285c1dbc")
+	)
+	(segment
+		(start 50.2825 55.89553)
+		(end 53.476241 59.089271)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 2")
+		(uuid "dc1b6eca-d1e8-41ba-aba4-ae8c0b6af8e1")
 	)
 	(segment
 		(start 125.70391 133.992212)
@@ -70606,12 +73210,28 @@
 		(uuid "06d9ee6b-83ff-45b7-b10a-5bd95d95f80f")
 	)
 	(segment
+		(start 14.992487 64.175517)
+		(end 14.992487 67.785744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 0")
+		(uuid "194e7486-814f-457b-8b9a-eae6c95e3f6f")
+	)
+	(segment
 		(start 107.798023 139.293999)
 		(end 110.532964 142.02894)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "col 0")
 		(uuid "27d287f9-dba2-4f85-a02e-6f0cbd5d1c24")
+	)
+	(segment
+		(start 7.079768 67.785744)
+		(end 14.992487 67.785744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 0")
+		(uuid "308299a3-c666-4d52-9a80-d9e3e6627eec")
 	)
 	(segment
 		(start 14.992487 69.856016)
@@ -70670,12 +73290,20 @@
 		(uuid "7a692f72-4e79-4698-b81f-e1e27a3a4574")
 	)
 	(segment
-		(start 12.1825 61.36553)
+		(start 14.591241 63.774271)
 		(end 14.992487 64.175517)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "col 0")
 		(uuid "7e3c7b11-0535-43b3-9304-d678733c5b23")
+	)
+	(segment
+		(start 12.1825 61.36553)
+		(end 14.591241 63.774271)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 0")
+		(uuid "81cac856-72f1-4d47-a84e-7095b68f416f")
 	)
 	(segment
 		(start 12.1825 113.311587)
@@ -70694,6 +73322,22 @@
 		(uuid "96b54af7-5926-471f-8d5b-4325009e9896")
 	)
 	(segment
+		(start 14.579768 63.785744)
+		(end 14.591241 63.774271)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 0")
+		(uuid "ae08716c-9dc5-4bb4-a7a3-d06937de9435")
+	)
+	(segment
+		(start 7.079768 63.785744)
+		(end 14.579768 63.785744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 0")
+		(uuid "bb244791-39fd-4dcc-9ff2-25d1f9924311")
+	)
+	(segment
 		(start 12.1825 53.616003)
 		(end 12.1825 61.36553)
 		(width 0.2)
@@ -70702,7 +73346,7 @@
 		(uuid "c062829c-f52f-4762-a0b9-8e040a4a4d1d")
 	)
 	(segment
-		(start 14.992487 64.175517)
+		(start 14.992487 67.785744)
 		(end 14.992487 69.856016)
 		(width 0.2)
 		(layer "B.Cu")
@@ -70822,6 +73466,14 @@
 		(uuid "1c5b87d0-879b-42e7-a69a-970cff45d0bd")
 	)
 	(segment
+		(start 31.079768 67.785744)
+		(end 28.716004 70.149508)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 1")
+		(uuid "3e02043c-776d-42e6-96a8-bded15291721")
+	)
+	(segment
 		(start 128.284522 138.07404)
 		(end 131.565376 138.07404)
 		(width 0.2)
@@ -70886,6 +73538,14 @@
 		(uuid "8142170e-4e46-4e98-a764-9c4e7123de41")
 	)
 	(segment
+		(start 26.052001 53.616003)
+		(end 21.631014 58.03699)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 1")
+		(uuid "847d600d-25a2-4616-9c89-05732af8e0ef")
+	)
+	(segment
 		(start 31.2325 110.766003)
 		(end 39.932759 110.766003)
 		(width 0.2)
@@ -70910,6 +73570,14 @@
 		(uuid "a53a57e6-f3b9-4b14-ae5e-d9e3e96c7526")
 	)
 	(segment
+		(start 27.379768 63.785744)
+		(end 21.631014 58.03699)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 1")
+		(uuid "b21c236e-1a7d-4725-a69c-bf2c174b8694")
+	)
+	(segment
 		(start 60.07722 138.128467)
 		(end 109.311866 138.128467)
 		(width 0.2)
@@ -70926,7 +73594,7 @@
 		(uuid "bd305dd4-7d7d-4bb6-9622-e2bdaca5357e")
 	)
 	(segment
-		(start 26.5925 68.026003)
+		(start 28.716004 70.149508)
 		(end 31.2325 72.666003)
 		(width 0.2)
 		(layer "B.Cu")
@@ -70940,6 +73608,22 @@
 		(layer "B.Cu")
 		(net "col 1")
 		(uuid "cdf96e58-a123-436a-8c49-6a62f54699cd")
+	)
+	(segment
+		(start 43.179768 63.785744)
+		(end 27.379768 63.785744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 1")
+		(uuid "d593002a-4bae-4ea7-8813-ab7e0336d9e9")
+	)
+	(segment
+		(start 43.479768 67.785744)
+		(end 31.079768 67.785744)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 1")
+		(uuid "d94d7e67-c7ae-4910-b00e-ee677e566eaa")
 	)
 	(segment
 		(start 49.8825 127.933747)
@@ -70974,7 +73658,7 @@
 		(uuid "e5d854fb-4888-4efd-af81-fc71f93f154a")
 	)
 	(segment
-		(start 26.052001 53.616003)
+		(start 21.631014 58.03699)
 		(end 15.392487 64.275517)
 		(width 0.2)
 		(layer "B.Cu")
@@ -70988,6 +73672,14 @@
 		(layer "B.Cu")
 		(net "col 1")
 		(uuid "effcc3c7-452d-4c7d-bcb3-e0f9f7ed674e")
+	)
+	(segment
+		(start 26.5925 68.026003)
+		(end 28.716004 70.149508)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "col 1")
+		(uuid "f7cbbee7-5163-4bf7-9207-14d5734394c6")
 	)
 	(segment
 		(start 15.392487 64.275517)
