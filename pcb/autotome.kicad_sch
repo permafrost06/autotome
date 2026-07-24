@@ -2379,6 +2379,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 165.1) (xy 191.77 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09f4eb6f-951d-4b7a-ad70-59fe34383811")
+	)
+	(wire
+		(pts
 			(xy 83.82 165.1) (xy 83.82 170.18)
 		)
 		(stroke
@@ -2436,6 +2446,16 @@
 			(type default)
 		)
 		(uuid "16b04867-5d2c-4a94-af35-7255c69b90a6")
+	)
+	(wire
+		(pts
+			(xy 185.42 165.1) (xy 191.77 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1863421f-7473-44b1-9fbd-e809b038028e")
 	)
 	(wire
 		(pts
@@ -2529,6 +2549,36 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 165.1) (xy 213.36 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24adfee5-ed49-4c47-9540-494dc02a1f00")
+	)
+	(wire
+		(pts
+			(xy 226.06 165.1) (xy 232.41 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28a6cccc-640e-41be-a28a-2cf829432ecb")
+	)
+	(wire
+		(pts
+			(xy 171.45 165.1) (xy 177.8 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29f9a620-cebd-4a13-80e5-9269ecd03190")
+	)
+	(wire
+		(pts
 			(xy 76.2 90.17) (xy 76.2 95.25)
 		)
 		(stroke
@@ -2596,6 +2646,16 @@
 			(type default)
 		)
 		(uuid "35fcdd94-3b37-4330-8b36-d5b141dc58e7")
+	)
+	(wire
+		(pts
+			(xy 238.76 165.1) (xy 245.11 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36d21b55-ad57-4cba-852d-94388523216f")
 	)
 	(wire
 		(pts
@@ -2819,6 +2879,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 165.1) (xy 219.71 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52f5cb2e-458f-4d53-8dfa-ee9cf50c16a6")
+	)
+	(wire
+		(pts
 			(xy 234.95 115.57) (xy 234.95 125.73)
 		)
 		(stroke
@@ -2859,6 +2929,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 165.1) (xy 199.39 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b697b1b-8e64-42cf-a02a-c9665bcac22e")
+	)
+	(wire
+		(pts
 			(xy 196.85 113.03) (xy 214.63 113.03)
 		)
 		(stroke
@@ -2876,6 +2956,16 @@
 			(type default)
 		)
 		(uuid "5bb17b38-2824-47fa-a670-38afd115510e")
+	)
+	(wire
+		(pts
+			(xy 163.83 165.1) (xy 163.83 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c6af0e2-3f36-467c-9f0c-8e569ce26b8b")
 	)
 	(wire
 		(pts
@@ -3099,6 +3189,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 165.1) (xy 163.83 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d0ffede-2cae-445e-a69f-4de76fd23c68")
+	)
+	(wire
+		(pts
 			(xy 181.61 90.17) (xy 181.61 95.25)
 		)
 		(stroke
@@ -3179,6 +3279,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 165.1) (xy 171.45 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dcc3b85-cc6c-4b13-975d-2e76569e3ce4")
+	)
+	(wire
+		(pts
 			(xy 35.56 165.1) (xy 35.56 168.91)
 		)
 		(stroke
@@ -3186,6 +3296,16 @@
 			(type default)
 		)
 		(uuid "9defba2b-221c-4a1c-bfaa-d0335decdeb3")
+	)
+	(wire
+		(pts
+			(xy 157.48 165.1) (xy 157.48 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e93bfc0-dd03-4bbf-9afc-79c3c4b14a2c")
 	)
 	(wire
 		(pts
@@ -3269,6 +3389,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 165.1) (xy 219.71 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa6f3f67-7cad-4d79-9d5e-3e1e418ff936")
+	)
+	(wire
+		(pts
 			(xy 132.08 133.35) (xy 127 133.35)
 		)
 		(stroke
@@ -3339,6 +3469,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 165.1) (xy 226.06 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b69e9fc2-3277-4dfe-94b5-ef1937e01b68")
+	)
+	(wire
+		(pts
 			(xy 76.2 115.57) (xy 76.2 125.73)
 		)
 		(stroke
@@ -3369,6 +3509,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 165.1) (xy 232.41 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc027998-3343-454b-a6e4-a6298887fd66")
+	)
+	(wire
+		(pts
 			(xy 158.75 143.51) (xy 179.07 143.51)
 		)
 		(stroke
@@ -3396,6 +3546,16 @@
 			(type default)
 		)
 		(uuid "be56c1dc-d925-4e58-a9d6-2dd761b1cce6")
+	)
+	(wire
+		(pts
+			(xy 199.39 165.1) (xy 205.74 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c24e4f8a-1007-4e22-bb58-d1435106cc6c")
 	)
 	(wire
 		(pts
@@ -3456,6 +3616,16 @@
 			(type default)
 		)
 		(uuid "ced760f8-22cd-4671-a026-b4813b756940")
+	)
+	(wire
+		(pts
+			(xy 205.74 165.1) (xy 205.74 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d14dee85-3daa-4fba-ae27-2186b5570845")
 	)
 	(wire
 		(pts
@@ -3569,6 +3739,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 165.1) (xy 177.8 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfd81579-8738-4164-9638-55eb8e2909f0")
+	)
+	(wire
+		(pts
 			(xy 111.76 115.57) (xy 111.76 125.73)
 		)
 		(stroke
@@ -3606,6 +3786,16 @@
 			(type default)
 		)
 		(uuid "e623f704-474c-44b2-933b-c01299716bb5")
+	)
+	(wire
+		(pts
+			(xy 245.11 165.1) (xy 245.11 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6d7c65f-1f5d-43a2-94d3-1a27c9f55380")
 	)
 	(wire
 		(pts
@@ -3669,6 +3859,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 165.1) (xy 185.42 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edb0669f-da5e-4911-b71a-12721792502f")
+	)
+	(wire
+		(pts
 			(xy 93.98 90.17) (xy 93.98 95.25)
 		)
 		(stroke
@@ -3726,6 +3926,16 @@
 			(type default)
 		)
 		(uuid "fb9ff22c-e3a6-4036-9c91-a495f4796c2f")
+	)
+	(wire
+		(pts
+			(xy 238.76 165.1) (xy 238.76 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc201255-ed99-4f7d-9b7a-7fab21df7b05")
 	)
 	(wire
 		(pts
@@ -4313,6 +4523,30 @@
 			)
 		)
 	)
+	(global_label "col 5r"
+		(shape input)
+		(at 228.6 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c2eea83-0ab9-4499-82d6-d4c8a4684c47")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.6 156.2487 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "row 3r"
 		(shape input)
 		(at 158.75 133.35 180)
@@ -4433,6 +4667,30 @@
 			)
 		)
 	)
+	(global_label "col 1r"
+		(shape input)
+		(at 173.99 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5e5e9a5b-47ac-40d3-99de-3c661dff7316")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 173.99 156.2487 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "col 1"
 		(shape input)
 		(at 67.31 59.69 0)
@@ -4478,6 +4736,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "col 3r"
+		(shape input)
+		(at 201.93 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "686a2d3a-49ed-44e3-94db-e6ff04169fa0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 201.93 156.2487 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -4913,6 +5195,30 @@
 			)
 		)
 	)
+	(global_label "row 0r"
+		(shape input)
+		(at 241.3 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a79a34df-47f0-40ed-9990-fbb3d124c098")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 241.3 155.8858 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "row 3r"
 		(shape input)
 		(at 227.33 62.23 180)
@@ -4934,6 +5240,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "col 4r"
+		(shape input)
+		(at 215.9 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b787a2d7-c074-444f-8924-cd3ac9b04a4f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 215.9 156.2487 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -5273,6 +5603,30 @@
 			)
 		)
 	)
+	(global_label "col 2r"
+		(shape input)
+		(at 187.96 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "deae61b9-348c-4144-9cb8-8b4fe4210313")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 187.96 156.2487 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "B-"
 		(shape input)
 		(at 96.52 30.48 90)
@@ -5478,6 +5832,30 @@
 		(uuid "eed7995e-0913-409f-89bf-45d5135f7790")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 271.7413 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "col 0r"
+		(shape input)
+		(at 160.02 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f06df892-0ec0-4ae0-a723-f445f9f6685f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.02 156.2487 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6431,6 +6809,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 245.11 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a6c6d54-965e-4870-aba6-5ab51e04a5a5")
+		(property "Reference" "J28"
+			(at 240.03 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 242.57 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 245.11 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 245.11 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7e255c5f-dffd-4241-affc-d2f431d6bfe0")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 232.41 109.22 90)
 		(unit 1)
@@ -6943,6 +7398,83 @@
 			(project "autotome"
 				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
 					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 219.71 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17b528e5-dacf-47a6-bfc6-d2bdab47bfdd")
+		(property "Reference" "J24"
+			(at 214.63 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 217.17 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 219.71 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 219.71 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d15670f2-56e3-430a-8117-93478e30bb16")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -9910,6 +10442,160 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
+		(at 226.06 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d90d487-cb83-4c77-b14d-6292a822b216")
+		(property "Reference" "J25"
+			(at 220.98 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 223.52 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 226.06 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 226.06 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 226.06 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "18433778-8507-4d4f-b953-1a2939c3c7a7")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 205.74 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41118e59-de8a-424e-80d0-fe7b5a1093c0")
+		(property "Reference" "J22"
+			(at 200.66 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 203.2 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 205.74 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 205.74 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d1e6194a-694c-45a1-b35a-af1154c6d5c3")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
 		(at 49.53 175.26 90)
 		(unit 1)
 		(body_style 1)
@@ -11250,6 +11936,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 163.83 173.99 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6df25a49-2733-4fda-b736-2f227831b507")
+		(property "Reference" "J16"
+			(at 158.75 173.355 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 161.29 173.355 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 163.83 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 163.83 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fba6690e-5ed6-47f9-a97b-76175facec0f")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "kbd:SW_PUSH")
 		(at 171.45 95.25 0)
 		(unit 1)
@@ -11478,6 +12241,83 @@
 			(project "autotome"
 				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
 					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 238.76 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "715aed17-eec6-449c-a26d-4de2e454a048")
+		(property "Reference" "J27"
+			(at 233.68 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 236.22 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 238.76 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 238.76 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f799547c-7558-4901-8e76-a0e59f5939a0")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J27")
 					(unit 1)
 				)
 			)
@@ -12020,6 +12860,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 191.77 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d16a354-7084-4da0-a7b0-85674f4c422d")
+		(property "Reference" "J20"
+			(at 186.69 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 189.23 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 191.77 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 191.77 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "664d6848-003e-467a-b35b-c3a41486f6fe")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "kbd:ProMicro")
 		(at 245.11 50.8 0)
 		(unit 1)
@@ -12243,6 +13160,160 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 199.39 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85737ad6-5025-4580-ba5a-896d9d6209fe")
+		(property "Reference" "J21"
+			(at 194.31 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 196.85 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 199.39 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 199.39 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "876a82ce-7597-4ff8-8880-d7688d21d840")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 213.36 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ae66f60-aa2c-4ac7-9b3e-051ebf945f09")
+		(property "Reference" "J23"
+			(at 208.28 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 210.82 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 213.36 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 213.36 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b413a655-6ba0-4fcd-95cc-abe962349e70")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "kbd:SW_PUSH")
 		(at 119.38 105.41 0)
 		(unit 1)
@@ -12393,6 +13464,83 @@
 			(project "autotome"
 				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
 					(reference "SW33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 232.41 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "915b8ece-18f8-41a2-b347-64a84330dc5c")
+		(property "Reference" "J26"
+			(at 227.33 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 229.87 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 232.41 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 232.41 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b3a61925-5af8-49dd-9a50-677312b96c70")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J26")
 					(unit 1)
 				)
 			)
@@ -14746,6 +15894,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 177.8 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b78a3f2d-2ee7-401d-897f-c1a85d42b706")
+		(property "Reference" "J18"
+			(at 172.72 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 175.26 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 177.8 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 177.8 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d6d135f4-5e86-4620-b5ea-bb0e1d2f7999")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "kbd:SW_PUSH")
 		(at 48.26 105.41 0)
 		(unit 1)
@@ -16116,6 +17341,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 185.42 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d397bfc2-3b1c-4fcc-a0ac-b5eed53e8ac4")
+		(property "Reference" "J19"
+			(at 180.34 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 182.88 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 185.42 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 185.42 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae4a337c-2dda-42dc-be14-892f6d24b557")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "kbd:SW_PUSH")
 		(at 101.6 135.89 0)
 		(unit 1)
@@ -17305,6 +18607,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 171.45 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec3494f1-cfee-4862-ad56-ca609cec3de3")
+		(property "Reference" "J17"
+			(at 166.37 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 168.91 174.625 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 171.45 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 171.45 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 171.45 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d82e6b32-73c2-4771-8e87-a148ac902423")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "kbd:SW_PUSH")
 		(at 224.79 95.25 0)
 		(unit 1)
@@ -17377,6 +18756,83 @@
 			(project "autotome"
 				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
 					(reference "SW32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 157.48 173.99 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ecf5ccbf-db1c-4eb4-94f8-9b1d8670d3e0")
+		(property "Reference" "J15"
+			(at 152.4 173.355 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 154.94 173.355 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 157.48 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 157.48 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aac03349-02b1-4fa1-a314-d71567361837")
+		)
+		(instances
+			(project "autotome"
+				(path "/7a8f7727-35b5-4a31-8719-22ef542e3f8e"
+					(reference "J15")
 					(unit 1)
 				)
 			)
