@@ -4115,6 +4115,30 @@
 			)
 		)
 	)
+	(global_label "R B-"
+		(shape input)
+		(at 227.33 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1a50ef4f-6aab-46be-8bd3-03064155eb49")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 219.2648 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "col 3"
 		(shape input)
 		(at 67.31 54.61 0)
@@ -4619,6 +4643,30 @@
 			)
 		)
 	)
+	(global_label "R B-"
+		(shape input)
+		(at 227.33 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "55cf9d2b-9397-4bb2-8303-47313183bc74")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 219.2648 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "enc_r B"
 		(shape input)
 		(at 162.56 49.53 90)
@@ -4931,6 +4979,30 @@
 			)
 		)
 	)
+	(global_label "B-"
+		(shape input)
+		(at 31.75 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7ecd1837-9b94-4e3d-8522-370d28007861")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.9224 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "row 4"
 		(shape input)
 		(at 31.75 62.23 180)
@@ -5120,6 +5192,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "B-"
+		(shape input)
+		(at 31.75 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "977f116a-c87d-447b-9bc1-36b52e52c35a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.9224 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
