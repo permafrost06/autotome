@@ -3732,57 +3732,57 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/my_library.pretty/nice!nano v2.step"
 			(offset
-				(xyz 0 1.8 -12.2)
+				(xyz 0 1.8 10.54)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -180 -0 90)
+				(xyz -0 -0 90)
 			)
 		)
 		(model "${KIPRJMOD}/my_library.pretty/1x13 Male Pin Header.step"
 			(offset
-				(xyz -7.6 -13.5 -12.2)
+				(xyz -7.6 -13.5 10.54)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -90)
+				(xyz 90 -0 -90)
 			)
 		)
 		(model "${KIPRJMOD}/my_library.pretty/1x13 Male Pin Header.step"
 			(offset
-				(xyz 7.6 -13.5 -12.2)
+				(xyz 7.65 -13.5 10.54)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -90)
+				(xyz 90 -0 -90)
 			)
 		)
 		(model "${KIPRJMOD}/my_library.pretty/Female header 13x1.step"
 			(offset
-				(xyz -7.6 -7.1 0.84)
+				(xyz -7.6 10.65 -2.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -180 -0)
+				(xyz -180 -180 -0)
 			)
 		)
 		(model "${KIPRJMOD}/my_library.pretty/Female header 13x1.step"
 			(offset
-				(xyz 7.6 -7.1 0.84)
+				(xyz 7.65 10.65 -2.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -180 -0)
+				(xyz -180 -180 -0)
 			)
 		)
 	)
