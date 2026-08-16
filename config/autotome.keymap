@@ -119,7 +119,7 @@ ZMK_CONDITIONAL_LAYER(sys, NUM FN, SYS)  // FN + NUM --> SYS
 //                                    ╰─────────────────┴─────────────────┴─────────────────┴─────────────────╯                                     ╰─────────────────┴─────────────────┴─────────────────┴─────────────────╯
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>, <&inc_dec_msc_y>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>, <&inc_dec_kp C_BRI_UP C_BRI_DN>;
         };
 
         num_layer {
@@ -138,7 +138,7 @@ ZMK_CONDITIONAL_LAYER(sys, NUM FN, SYS)  // FN + NUM --> SYS
 //                          ╰────────────┴────────────┴────────────┴────────────╯                           ╰────────────┴────────────┴────────────┴────────────╯
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>, <&inc_dec_msc_x>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>, <&inc_dec_kp C_BRI_UP C_BRI_DN>;
         };
 
         fn_layer {
