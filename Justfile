@@ -23,7 +23,8 @@ _build_single $board $shield $snippet $artifact cmake_args *west_args:
 
     echo "Building firmware for $artifact..."
     west build -s zmk/app -d "$build_dir" -b $board {{ west_args }} ${snippet:+-S "$snippet"} -- \
-        -DZMK_CONFIG="{{ config }}" ${shield:+-DSHIELD="$shield"} {{ cmake_args }}
+        -DZMK_CONFIG="{{ config }}" ${shield:+-DSHIELD="$shield"} \
+        -DZMK_EXTRA_MODULES="{{ justfile_directory() }}" {{ cmake_args }}
 
     if [[ -f "$build_dir/zephyr/zmk.uf2" ]]; then
         mkdir -p "{{ out }}" && cp "$build_dir/zephyr/zmk.uf2" "{{ out }}/$artifact.uf2"
@@ -59,7 +60,7 @@ clean:
 
 # clear all automatically generated files
 clean-all: clean
-    rm -rf .west zmk
+    rm -rf .west zmk zephyr-upstream
 
 # clear nix cache
 clean-nix:
@@ -123,7 +124,8 @@ test $testpath *FLAGS:
         echo "Running $testcase..."
         rm -rf "$build_dir"
         west build -s zmk/app -d "$build_dir" -b native_sim//zmk_test_mock -- \
-            -DCONFIG_ASSERT=y -DZMK_CONFIG="$config_dir"
+            -DCONFIG_ASSERT=y -DZMK_CONFIG="$config_dir" \
+            -DZMK_EXTRA_MODULES="{{ justfile_directory() }}"
     fi
 
     ${build_dir}/zephyr/zmk.exe | sed -e "s/.*> //" |

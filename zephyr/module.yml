@@ -1,3 +1,6 @@
 build:
   settings:
     board_root: .
+    dts_root: dynamic-macro
+  cmake: dynamic-macro
+  kconfig: dynamic-macro/Kconfig

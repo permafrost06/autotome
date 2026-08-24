@@ -55,9 +55,14 @@ manifest:
 
     # Only source necessary Zephyr modules. Remove this entire section to restore
     # the default (needed for less common hardware).
+    #
+    # The upstream zephyr tree is checked out as zephyr-upstream so that the
+    # tracked zephyr/module.yml (which registers this repo as a Zephyr module,
+    # providing boards/ and dynamic-macro/) is not clobbered by west update.
     - name: zephyr
       remote: zmkfirmware
       revision: 58a5874a446ace2893a196848282d271a551e512 # v4.1.0+zmk-fixes
+      path: zephyr-upstream
       clone-depth: 1
       import:
         name-allowlist:

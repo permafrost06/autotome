@@ -1,0 +1,2 @@
+s/.*hid_listener_keycode/kp/p
+s/.*dynamic_macro/dm/p
