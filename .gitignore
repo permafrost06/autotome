@@ -5,6 +5,6 @@
 modules
 firmware
 zephyr-upstream
-zmk
+/zmk
 .history
 *.lck
