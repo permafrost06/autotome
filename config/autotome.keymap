@@ -45,6 +45,10 @@
 MAKE_HRM(hml, &kp, &kp, KEYS_R THUMBS)
 MAKE_HRM(hmr, &kp, &kp, KEYS_L THUMBS)
 
+&lt {
+    quick-tap-ms = <QUICK_TAP_MS>;
+};
+
 &caps_word {
     /delete-property/ ignore-modifiers;
 };
